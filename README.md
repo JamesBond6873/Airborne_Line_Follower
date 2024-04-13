@@ -10,6 +10,7 @@
 - Open a command window (Windows Start cmd)
 - Do once a login (answer the questions, see the code "XXXX-XXXX", write the code in the browser):
 > gh auth login
+- After successful login, the github files can be obtained locally:
 > gh repo clone JamesBond6873/Airborne_Line_Follower
 
 ## Help folder at GDrive:
