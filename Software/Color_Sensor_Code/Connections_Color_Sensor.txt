@@ -1,0 +1,11 @@
+Connections:
+
+PICO - SENSOR
+GND – GND
+GP2 – OUT
+GP3 – S0
+GP4 – S1
+GP5 – S2
+GP6 – S3
+3V3(OUT) – VCC
+3V3(OUT) - LED
