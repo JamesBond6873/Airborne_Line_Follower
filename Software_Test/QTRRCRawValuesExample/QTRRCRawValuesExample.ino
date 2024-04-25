@@ -21,6 +21,8 @@ uint16_t sensorValues[SensorCount];
 void setup()
 {
   // configure the sensors
+  pinMode(25, OUTPUT);
+
   qtr.setTypeRC();
   qtr.setSensorPins((const uint8_t[]){3, 4, 5, 6, 7, 8, 9, 10}, SensorCount);
   qtr.setEmitterPin(2);
@@ -31,6 +33,7 @@ void setup()
 
 void loop()
 {
+  digitalWrite(25, HIGH);
   // read raw sensor values
   qtr.read(sensorValues);
 
@@ -44,4 +47,7 @@ void loop()
   Serial.println();
 
   delay(250);
+  digitalWrite(25, LOW);
+  delay(250);
+
 }

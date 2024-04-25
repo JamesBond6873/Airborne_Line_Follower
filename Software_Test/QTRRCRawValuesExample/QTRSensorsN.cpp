@@ -228,7 +228,7 @@ uint16_t QTRSensors::emittersOnWithPin(uint8_t pin)
 
   if (_dimmable && (_dimmingLevel > 0))
   {
-    noInterrupts();
+    //noInterrupts();
 
     for (uint8_t i = 0; i < _dimmingLevel; i++)
     {
@@ -238,7 +238,7 @@ uint16_t QTRSensors::emittersOnWithPin(uint8_t pin)
       digitalWrite(pin, HIGH);
     }
 
-    interrupts();
+    //interrupts();
   }
 
   return emittersOnStart;
@@ -575,7 +575,7 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
       {
         // disable interrupts so we can switch all the pins as close to the same
         // time as possible
-        noInterrupts();
+        //noInterrupts();
 
         // record start time before the first sensor is switched to input
         // (similarly, time is checked before the first sensor is read in the
@@ -589,13 +589,13 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
           pinMode(_sensorPins[i], INPUT);
         }
 
-        interrupts(); // re-enable
+        //interrupts(); // re-enable
 
         while (time < _maxValue)
         {
           // disable interrupts so we can read all the pins as close to the same
           // time as possible
-          noInterrupts();
+          //noInterrupts();
 
           time = micros() - startTime;
           for (uint8_t i = start; i < _sensorCount; i += step)
@@ -607,7 +607,7 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
             }
           }
 
-          interrupts(); // re-enable
+          //interrupts(); // re-enable
         }
       }
       return;
