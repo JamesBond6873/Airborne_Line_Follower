@@ -46,8 +46,7 @@ void loop()
   }
   Serial.println();
 
-  delay(250);
-  digitalWrite(25, LOW);
+  //digitalWrite(25, LOW);
   delay(250);
 
 }
