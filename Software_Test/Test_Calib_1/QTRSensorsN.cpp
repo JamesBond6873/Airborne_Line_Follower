@@ -570,7 +570,7 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
         digitalWrite(_sensorPins[i], HIGH);
       }
 
-      delayMicroseconds(10); // charge lines for 10 us
+      delayMicroseconds(50); // charge lines for 10 us
 
       {
         // disable interrupts so we can switch all the pins as close to the same

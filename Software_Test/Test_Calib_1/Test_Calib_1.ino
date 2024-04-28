@@ -19,6 +19,10 @@ float KD = 4;
 
 bool debug = true;
 
+unsigned long t0;
+unsigned long t1;
+long timeInterval = 10; // 10ms per loop = 100Hz
+
 
 
 // QTRSensorsA qtr((char[]) {0, 1, 2}, 3);
@@ -60,44 +64,9 @@ void setup()
 
   Serial.println("Starting");
 
-  digitalWrite(RF, HIGH);
-  digitalWrite(RB, LOW);
-  digitalWrite(LF, LOW);
-  digitalWrite(LB, HIGH);
-
-
 
   for (i = 0; i < 250; i++)  // make the calibration take about 5 seconds
   {
-    //Serial.println("Alive");
-    if (i == 50) 
-    {
-      digitalWrite(RF, LOW);
-      digitalWrite(RB, HIGH);
-      digitalWrite(LF, HIGH);
-      digitalWrite(LB, LOW);
-    }
-    else if (i == 150)
-    {
-      digitalWrite(RF, HIGH);
-      digitalWrite(RB, LOW);
-      digitalWrite(LF, LOW);
-      digitalWrite(LB, HIGH);
-    }
-    else if (i == 200) 
-    {
-      digitalWrite(RF, LOW);
-      digitalWrite(RB, HIGH);
-      digitalWrite(LF, HIGH);
-      digitalWrite(LB, LOW);
-    }
-    else if (i == 225)
-    {
-      digitalWrite(RF, HIGH);
-      digitalWrite(RB, LOW);
-      digitalWrite(LF, LOW);
-      digitalWrite(LB, HIGH);
-    }
     qtr.calibrate();
     delay(20);
   }
@@ -120,12 +89,14 @@ void setup()
   
   // optional: signal that the calibration phase is now over and wait for further
   // input from the user, such as a button press
+
+  t0 = millis();
 }
 
 
 float calculatePosition(uint16_t sensorValues[]) 
 {
-  int blackThreshold = 700;
+  int blackThreshold = 500;
   float sensorDistance = 1.00;
   float linePos = 0;
   int LineTest[] = {};
@@ -170,6 +141,9 @@ int counter = 0;
 
 void loop()
 {
+  t1 = t0 + timeInterval;
+
+
   uint16_t sensors[8];
   // get calibrated sensor values returned in the sensors array, along with the line
   // position, which will range from 0 to 2000, with 1000 corresponding to the line over
@@ -242,6 +216,11 @@ void loop()
     analogWrite(RF, m2Speed); 
   }
   delay(10);
+
+    while(millis() <= t1) {
+    delay(0.1);
+  }
+  t0 = t1;
 }
 
 #endif
