@@ -1,7 +1,7 @@
-#define RF 0 // Right Motor Forward Pin
-#define RB 1 // Right Motor Backward Pin
-#define LF 2 // Left Motor Forward Pin
-#define LB 3 // Left Motor Backward Pin
+#define RF 18 // Right Motor Forward Pin
+#define RB 19 // Right Motor Backward Pin
+#define LF 20 // Left Motor Forward Pin
+#define LB 21 // Left Motor Backward Pin
 
 #define Led 25
 

@@ -1,17 +1,10 @@
 #include "QTRSensorsN.h"
 
-// This example is designed for use with eight RC QTR sensors. These
-// reflectance sensors should be connected to digital pins 3 to 10. The
-// sensors' emitter control pin (CTRL or LEDON) can optionally be connected to
-// digital pin 2, or you can leave it disconnected and remove the call to
-// setEmitterPin().
-//
-// The main loop of the example reads the raw sensor values (uncalibrated). You
-// can test this by taping a piece of 3/4" black electrical tape to a piece of
-// white paper and sliding the sensor across it. It prints the sensor values to
-// the serial monitor as numbers from 0 (maximum reflectance) to 2500 (minimum
-// reflectance; this is the default RC timeout, which can be changed with
-// setTimeout()).
+#define RF 18 // Right Motor Forward Pin
+#define RB 19 // Right Motor Backward Pin
+#define LF 20 // Left Motor Forward Pin
+#define LB 21 // Left Motor Backward Pin
+
 
 QTRSensors qtr;
 
@@ -38,6 +31,17 @@ void setup()
 {
   // configure the sensors
   pinMode(25, OUTPUT);
+
+  pinMode(RF, OUTPUT);
+  pinMode(RB, OUTPUT);
+  pinMode(LF, OUTPUT);
+  pinMode(LB, OUTPUT);
+
+  // Set Stop motions
+  digitalWrite(RF, LOW);
+  digitalWrite(RB, LOW);
+  digitalWrite(LF, LOW);
+  digitalWrite(LB, LOW);
 
   qtr.setTypeRC();
   qtr.setSensorPins((const uint8_t[]){14, 13, 12, 11, 10, 9, 8, 7}, SensorCount);
