@@ -590,6 +590,8 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
         }
 
         //interrupts(); // re-enable
+      uint16_t sensorsTmp[300];
+      int sensorsTmpInd = 0;
 
         while (time < _maxValue)
         {
@@ -604,11 +606,19 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
             {
               // record the first time the line reads low
               sensorValues[i] = time;
+              if (i == 4 && sensorsTmpInd < 300) {
+                sensorsTmp[sensorsTmpInd++] = time;
+              }
             }
           }
 
           //interrupts(); // re-enable
         }
+        Serial.println("----------------------");
+        for(int i = 0; i < sensorsTmpInd; i++) {
+          Serial.println(sensorsTmp[i]);
+        }
+        Serial.println("----------------------");
       }
       return;
 
