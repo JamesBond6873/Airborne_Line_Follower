@@ -570,7 +570,7 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
         digitalWrite(_sensorPins[i], HIGH);
       }
 
-      delayMicroseconds(50); // charge lines for 10 us
+      delayMicroseconds(15); // charge lines for 10 us
 
       {
         // disable interrupts so we can switch all the pins as close to the same
@@ -602,23 +602,30 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
           time = micros() - startTime;
           for (uint8_t i = start; i < _sensorCount; i += step)
           {
-            if ((digitalRead(_sensorPins[i]) == LOW) && (time < sensorValues[i]))
+            bool flagDigitalRead = digitalRead(_sensorPins[i]);
+            if ((flagDigitalRead == LOW) && (i == 4) && (sensorsTmpInd < 300))
+            {
+                sensorsTmp[sensorsTmpInd++] = time;
+            }
+            if ((flagDigitalRead == LOW) && (time < sensorValues[i]))
             {
               // record the first time the line reads low
               sensorValues[i] = time;
-              if (i == 4 && sensorsTmpInd < 300) {
-                sensorsTmp[sensorsTmpInd++] = time;
-              }
+              
             }
           }
-
           //interrupts(); // re-enable
         }
-        Serial.println("----------------------");
-        for(int i = 0; i < sensorsTmpInd; i++) {
+        //Serial.println("----------------------");
+        //Serial.println(startTime);  // Extras Change
+        //Serial.println(startTime + _maxValue);  // Extras Change
+        //Serial.print("Number of LOWs = ");
+        Serial.print(sensorsTmpInd);
+        Serial.print("\t");
+        /*for(int i = 0; i < sensorsTmpInd; i++) {
           Serial.println(sensorsTmp[i]);
-        }
-        Serial.println("----------------------");
+        }*/
+        //Serial.println("++++++++++++++++++++++");
       }
       return;
 
