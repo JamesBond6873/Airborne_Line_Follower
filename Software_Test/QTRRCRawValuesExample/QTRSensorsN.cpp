@@ -557,7 +557,9 @@ void QTRSensors::readCalibrated(uint16_t * sensorValues, QTRReadMode mode)
 void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t step)
 {
   if (_sensorPins == nullptr) { return; }
-
+  
+  //int counter = 0; // Extra Change: Francisco
+  
   switch (_type)
   {
     case QTRType::RC:
@@ -570,7 +572,7 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
         digitalWrite(_sensorPins[i], HIGH);
       }
 
-      delayMicroseconds(10); // charge lines for 10 us
+      delayMicroseconds(10); // charge lines for 10 us IMPORTANT
 
       {
         // disable interrupts so we can switch all the pins as close to the same
@@ -593,6 +595,7 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
 
         while (time < _maxValue)
         {
+          // counter ++;  // Extra Change: Francisco
           // disable interrupts so we can read all the pins as close to the same
           // time as possible
           //noInterrupts();
@@ -603,13 +606,14 @@ void QTRSensors::readPrivate(uint16_t * sensorValues, uint8_t start, uint8_t ste
             if ((digitalRead(_sensorPins[i]) == LOW) && (time < sensorValues[i]))
             {
               // record the first time the line reads low
-              sensorValues[i] = time;
+              sensorValues[i] = time; //sensorValues[i] = 0.2 * sensorValues[i] + 0.8 * time; // sensorValues[i] = time;  Original: Change: Francisco
             }
           }
 
           //interrupts(); // re-enable
         }
       }
+      //Serial.print("Counter = "); Serial.println(counter);  // Extra Change: Francisco
       return;
 
     case QTRType::Analog:

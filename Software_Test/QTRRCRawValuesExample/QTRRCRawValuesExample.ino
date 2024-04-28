@@ -18,6 +18,10 @@ QTRSensors qtr;
 const uint8_t SensorCount = 8;
 uint16_t sensorValues[SensorCount];
 
+unsigned long t0;
+unsigned long t1;
+long timeInterval = 10; // 10ms per loop = 100Hz
+
 void setup()
 {
   // configure the sensors
@@ -28,12 +32,15 @@ void setup()
   qtr.setEmitterPin(2);
 
   Serial.begin(9600);
+  t0 = millis();
 }
 
 
 void loop()
 {
   digitalWrite(25, HIGH);
+  t1 = t0 + timeInterval;
+
   // read raw sensor values
   qtr.read(sensorValues);
 
@@ -46,7 +53,8 @@ void loop()
   }
   Serial.println();
 
-  //digitalWrite(25, LOW);
-  delay(250);
-
+  while(millis() <= t1) {
+    delay(0.1);
+  }
+  t0 = t1;
 }
