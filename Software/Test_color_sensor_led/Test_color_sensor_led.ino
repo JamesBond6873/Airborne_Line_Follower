@@ -3,7 +3,7 @@
 #define S2 5
 #define S3 6
 #define sensorOut 2
-#define buzzerPin 7
+#define buzzerPin 17
 
 int redPin = 13;
 int greenPin = 12;
@@ -33,10 +33,8 @@ void setup() {
 }
 
 void loop() {
-  checkColor();
-  makeSound(); // Make a sound
-  
-  delay(1000);
+  checkColor();  
+  delay(100);
 }
 
 void checkColor()
@@ -69,20 +67,36 @@ void checkColor()
   Serial.print(frequencyB);//printing Blue color frequency
   Serial.println("  ");
 
-  if(frequencyR < frequencyG - 35 && frequencyR < frequencyB - 35) {Serial.println("RED");}
-  if(frequencyG < frequencyR - 35 && frequencyG < frequencyB - 35) {Serial.println("GREEN");}
-  if(frequencyB < frequencyG - 35 && frequencyB < frequencyR - 35) {Serial.println("BLUE");}
-
+  if(frequencyR < frequencyG - 35 && frequencyR < frequencyB - 35) {
+    Serial.println("RED");
+    setColor(255, 0, 0);
+    makeSound();
+    }
+  else if(frequencyG < frequencyR - 10 && frequencyG < frequencyB - 10) {
+    Serial.println("GREEN");
+    setColor(0, 255, 0);
+    makeSound();
+    }
+  else if(frequencyB < frequencyG - 35 && frequencyB < frequencyR - 35) {
+    Serial.println("BLUE");
+    setColor(0, 0, 255);
+    makeSound();
+    }
+  setColor(0, 0, 0); // LED OFF
 }
 
 void setColor(int redValue, int greenValue, int blueValue) {
-  analogWrite(redPin, redValue);
-  analogWrite(greenPin, greenValue);
-  analogWrite(bluePin, blueValue);
+  analogWrite(redPin, 255 - redValue);
+  analogWrite(greenPin, 255 - greenValue);
+  analogWrite(bluePin, 255 - blueValue);
 }
 
 void makeSound() {
-  tone(buzzerPin, 1000); // Play a tone of 1000Hz
-  delay(100); // Wait for 100 milliseconds
-  noTone(buzzerPin); // Stop the tone
+  int t0 = millis();
+  while (millis() < (t0 + 5000)){
+    tone(buzzerPin, 1000); // Send 1KHz sound signal...
+    delay(50);        // ...for 1 sec
+    noTone(buzzerPin);     // Stop sound...
+    delay(100);        // ...for 1sec
+  }
 }
