@@ -28,8 +28,8 @@ void setup()
   pinMode(25, OUTPUT);
 
   qtr.setTypeRC();
-  qtr.setSensorPins((const uint8_t[]){3, 4, 5, 6, 7, 8, 9, 10}, SensorCount);
-  qtr.setEmitterPin(2);
+  qtr.setSensorPins((const uint8_t[]){14, 13, 12, 11, 10, 9, 8, 7}, 8);
+  qtr.setEmitterPin(15);
 
   Serial.begin(9600);
   t0 = millis();
