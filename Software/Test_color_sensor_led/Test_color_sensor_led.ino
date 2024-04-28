@@ -3,11 +3,11 @@
 #define S2 5
 #define S3 6
 #define sensorOut 2
-#define buzzerPin 17
+#define buzzerPin 21
 
-int redPin = 13;
-int greenPin = 12;
-int bluePin = 11;
+int redPin = 18;
+int greenPin = 17;
+int bluePin = 16;
 
 int frequencyR;
 int frequencyG;
