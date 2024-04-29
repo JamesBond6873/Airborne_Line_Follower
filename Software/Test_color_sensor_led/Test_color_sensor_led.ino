@@ -1,9 +1,9 @@
 #define S0 3
 #define S1 4
-#define S2 5
-#define S3 6
+#define S2 1
+#define S3 0
 #define sensorOut 2
-#define buzzerPin 21
+#define buzzerPin 5
 
 int redPin = 18;
 int greenPin = 17;
