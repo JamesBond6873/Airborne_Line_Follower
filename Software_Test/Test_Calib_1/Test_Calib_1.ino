@@ -71,7 +71,7 @@ float calculatePosition(uint16_t sensorValues[])
 #if 1
 float calculatePosition(uint16_t sensorValues[]) 
 {
-  int blackThreshold = 450;
+  int blackThreshold = 550;
   float sensorDistance = 1.00;
   static float linePos = 0.0;
   int LineTest[] = {};
@@ -218,7 +218,7 @@ void setup()
 
   // then start calibration phase and move the sensors over both
   // reflectance extremes they will encounter in your application:
-  int i;
+  //int i;
 
   // Blink led for 1sec before Calibration
   delay(1000);
@@ -237,7 +237,7 @@ void setup()
   digitalWrite(25, HIGH);
 
   // Blink led multiple times after Calibration
-  for (i = 0; i < 10; i++)
+  for (int i = 0; i < 10; i++)
   {
     digitalWrite(25, HIGH);
     delay(60);

@@ -48,49 +48,56 @@ void checkColor()
   // RED
   digitalWrite(S2,LOW);
   digitalWrite(S3,LOW);
-  frequencyR = pulseIn(sensorOut, LOW);
+  frequencyR = pulseIn(sensorOut, LOW, 1500); // Timeout 1500 added
   Serial.print("R= ");//printing name
   Serial.print(frequencyR);//printing RED color frequency
-  Serial.print("  ");
-  delay(100);
+  Serial.print("\t");
+  delayMicroseconds(50);
+
 
   
   //GREEN
   digitalWrite(S2,HIGH);
   digitalWrite(S3,HIGH);
-  frequencyG = pulseIn(sensorOut, LOW);
+  frequencyG = pulseIn(sensorOut, LOW, 1500); // Timeout 1500 added
   Serial.print("G= ");//printing name
   Serial.print(frequencyG);//printing Green color frequency
-  Serial.print("  ");
-  delay(100);
+  Serial.print("\t");
+  delayMicroseconds(50);
 
   
   //BLUE
   digitalWrite(S2,LOW);
   digitalWrite(S3,HIGH);
-  frequencyB = pulseIn(sensorOut, LOW);
+  frequencyB = pulseIn(sensorOut, LOW, 1500); // Timeout 1500 added
   Serial.print("B= ");//printing name
   Serial.print(frequencyB);//printing Blue color frequency
-  Serial.println("  ");
+  Serial.print("\t");
 
   if(frequencyR < frequencyG - 40 && frequencyR < frequencyB - 40) {
-    Serial.println("RED");
+    Serial.print("RED");
+    Serial.print("\t");
     setSpeed(0, 0, 1, debug);
     setColor(255, 0, 0);
     makeSound();
     }
   else if(frequencyG < frequencyR - 10 && frequencyG < frequencyB - 10) {
-    Serial.println("GREEN");
+    Serial.print("GREEN");
+    Serial.print("\t");
     setSpeed(0, 0, 1, debug);
     setColor(0, 255, 0);
     makeSound();
     }
   else if(frequencyB < frequencyG - 35 && frequencyB < frequencyR - 35) {
-    Serial.println("BLUE");
+    Serial.print("BLUE");
+    Serial.print("\t");
     setSpeed(0, 0, 1, debug);
     setColor(0, 0, 255);
     makeSound();
     }
+  else {
+    Serial.print("\t");
+  }
   setColor(0, 0, 0); // LED OFF
   return;
 }
@@ -102,13 +109,14 @@ void setColor(int redValue, int greenValue, int blueValue) {
 }
 
 void makeSound() {
-  int t0 = millis();
-  while (millis() < (t0 + 5000)){
+  int time0 = millis();
+  while (millis() < (time0 + 5000)){
     tone(buzzerPin, 1000); // Send 1KHz sound signal...
     delay(50);        // ...for 1 sec
     noTone(buzzerPin);     // Stop sound...
     delay(100);        // ...for 1sec
   }
+  
 }
 
 
@@ -144,11 +152,6 @@ float calculatePosition(uint16_t sensorValues[])
   Serial.print(linePos);
   Serial.print("\t");
 
-  //eP = -(4.5 - linePos);
-  //Serial.print(eP);
-  //Serial.print("\t");
-  //Serial.println();
-  
   return linePos;
 }
 #endif
@@ -156,7 +159,7 @@ float calculatePosition(uint16_t sensorValues[])
 #if 1
 float calculatePosition(uint16_t sensorValues[]) 
 {
-  int blackThreshold = 450;
+  int blackThreshold = 550;
   float sensorDistance = 1.00;
   static float linePos = 0.0;
   int LineTest[] = {};
@@ -185,7 +188,8 @@ float calculatePosition(uint16_t sensorValues[])
 }
 #endif
 
-float getError(float &errorAcc) {
+float getError(float &errorAcc) 
+{
   uint16_t sensors[8];
 
   qtr.readCalibrated(sensors);
@@ -228,7 +232,8 @@ int m1Speed;
 int m2Speed;
 
 
-void calcSpeed(float error, float lastError, float errorAcc, int &m1Speed, int &m2Speed) {
+void calcSpeed(float error, float lastError, float errorAcc, int &m1Speed, int &m2Speed) 
+{
   // set the motor speed based on proportional and derivative PID terms
   // KP is the a floating-point proportional constant (maybe start with a value around 0.1)
   // KD is the floating-point derivative constant (maybe start with a value around 5)
@@ -255,7 +260,8 @@ void calcSpeed(float error, float lastError, float errorAcc, int &m1Speed, int &
 }
 
 
-void setSpeed(int m1Speed, int m2Speed, float speedReducer, bool debug) {
+void setSpeed(int m1Speed, int m2Speed, float speedReducer, bool debug) 
+{
   if (debug == false)
   {
     if(m1Speed > 0) {analogWrite(LB, 0); analogWrite(LF, m1Speed * speedReducer);}
@@ -314,19 +320,15 @@ void setup()
   digitalWrite(S0, HIGH);
   digitalWrite(S1, LOW);
 
-  setColor(0, 0, 0);
-
-  // optional: wait for some input from the user, such as  a button press
-
-  // then start calibration phase and move the sensors over both
-  // reflectance extremes they will encounter in your application:
-  int i;
+  setColor(255, 0, 0);
 
   // Blink led for 1sec before Calibration
   delay(1000);
   digitalWrite(25, HIGH);
   delay(1000);
   digitalWrite(25, LOW);
+
+  setColor(255, 255, 0);
 
   Serial.println("Starting");
   calibr();
@@ -338,8 +340,10 @@ void setup()
   digitalWrite(LB, LOW);
   digitalWrite(25, HIGH);
 
+  setColor(0, 255, 0);  
+
   // Blink led multiple times after Calibration
-  for (i = 0; i < 10; i++)
+  for (int i = 0; i < 10; i++)
   {
     digitalWrite(25, HIGH);
     delay(60);
