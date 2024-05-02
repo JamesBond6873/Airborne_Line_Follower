@@ -1,0 +1,24 @@
+
+FPG Airborne line follow:
+- main params (blackThreshold, normalSpeed, KP, KD, KI, ...)
+- save in a circular array (struct or class?): time, sensors, nBlack, err, motor speeds
+- calc new state (state change) based on flags (wallNear, laneLostTime, ...)
+- motion control modes 0=Stop, 1=LineFollow, 2=GoBackToLine, 3=WithinWalls, ...
+- active functions DetectColors, BeepOnColor, WaitOnColor, ...
+- log sensor readings along the path
+- dataLogger, work all the time (restart upon crash?) but change filename upon a large pause on data
+- how to get flags into the pi pico? sd card would be great... R-pi would be the best...
+
+
+FPG Airborne line follow:
+- main params (blackThreshold, normalSpeed, KP, KD, KI, ...)
+- save in a circular array (struct or class?): time, sensors, nBlack, err, motor speeds
+- calc new state (state change) based on flags (wallNear, laneLostTime, ...)
+- switch on loopMode
+
+- loopMode:  m0_Stop, m1_Calib, m2_LineFollow, m3_GoBackToLine, m4_WithinWalls, m5_ExploreToFindLine...
+- globalFlags / active functions:  detectColorsFlag, beepOnColorFlag, waitOnColorFlag, ...
+
+- log sensor readings along the path
+- dataLogger, work all the time (restart upon crash?) but change filename upon a large pause on data
+- how to get flags into the pi pico? sd card would be great... R-pi would be the best...
