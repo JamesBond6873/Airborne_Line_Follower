@@ -43,8 +43,11 @@ long timeInterval = 10; // 10ms per loop = 100Hz
 
 // -----------------------------------------------------------------
 
-void checkColor()
+void checkColor(int &lastUsed)
 {
+  if (lastUsed < 25) {
+    return;
+  }
   // RED
   digitalWrite(S2,LOW);
   digitalWrite(S3,LOW);
@@ -74,9 +77,10 @@ void checkColor()
   Serial.print(frequencyB);//printing Blue color frequency
   Serial.print("\t");
 
-  if(frequencyR < frequencyG - 40 && frequencyR < frequencyB - 40) {
+  if(frequencyR < frequencyG - 40 && frequencyR < frequencyB - 40  && frequencyR <= 0) { //Important Change: Red detection OFF
     Serial.print("RED");
     Serial.print("\t");
+    lastUsed = 0;
     setSpeed(0, 0, 1, debug);
     setColor(255, 0, 0);
     makeSound();
@@ -84,6 +88,7 @@ void checkColor()
   else if(frequencyG < frequencyR - 10 && frequencyG < frequencyB - 10) {
     Serial.print("GREEN");
     Serial.print("\t");
+    lastUsed = 0;
     setSpeed(0, 0, 1, debug);
     setColor(0, 255, 0);
     makeSound();
@@ -91,6 +96,7 @@ void checkColor()
   else if(frequencyB < frequencyG - 35 && frequencyB < frequencyR - 35) {
     Serial.print("BLUE");
     Serial.print("\t");
+    lastUsed = 0;
     setSpeed(0, 0, 1, debug);
     setColor(0, 0, 255);
     makeSound();
@@ -114,6 +120,7 @@ void makeSound() {
     tone(buzzerPin, 1000); // Send 1KHz sound signal...
     delay(50);        // ...for 1 sec
     noTone(buzzerPin);     // Stop sound...
+    digitalWrite(buzzerPin, LOW);
     delay(100);        // ...for 1sec
   }
   
@@ -358,13 +365,17 @@ void setup()
   t0 = millis();
 }
 
+// Color Sensor flag to avoid multiple color readings for the same mark
+int lastUsed = 50;
 
 void loop()
 {
   t1 = t0 + timeInterval;
   float speedReducer = 1;
 
-  checkColor();
+  lastUsed += 1;
+
+  checkColor(lastUsed);
 
   int error = getError(errorAcc);
   if (abs(error) >= 2.0) {
