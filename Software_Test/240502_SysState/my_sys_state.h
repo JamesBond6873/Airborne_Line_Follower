@@ -54,8 +54,9 @@ public:
     memcpy(&y, &list[ix], sizeof(tSens));
   };
 
-  void get(tSens &y) { get(0, y); }; // get the most recent data
-
+  void get(tSens &y) {
+    get(0, y);
+  };  // get the most recent data
 };
 
 
@@ -119,6 +120,11 @@ public:
     buff2.put(act);
   };
   String act2str();
+
+  // show sensor and actuator
+  void showSensAct() {
+    Serial.println(sens2str() + " " + act2str());
+  }
 };
 
 // declare one object to use everywhere

@@ -10,7 +10,7 @@ MySysState ss;
 // ----------------------------------------------------------------------------------
 
 String MySysState::sens2str() {
-  String str = "Q=";
+  String str = "t=" + String(sens.sensTime) + " Q=";
   for (int i = 0; i < 8; i++) str = str + " " + String(sens.sensorQTR[i]);
   str = str + " RGB=";
   for (int i = 0; i < 3; i++) str = str + " " + String(sens.sensorRGB[i]);
@@ -19,7 +19,7 @@ String MySysState::sens2str() {
 }
 
 String MySysState::act2str() {
-  String str = " S= ";
+  String str = "t=" + String(act.actTime) + " S= ";
   str = str + String(act.m1Speed) + " " + String(act.m2Speed);
   return str;
 }
@@ -105,8 +105,7 @@ void ss_loop_demo_2() {
     for (int j = 0; j < nElems; j++) {
       ss.buff1.get(j, ss.sens);
       ss.buff2.get(j, ss.act);
-      Serial.print(ss.sens2str());
-      Serial.println(ss.act2str());
+      ss.showSensAct();
     }
 
     // put some info into the buffers
