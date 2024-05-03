@@ -35,7 +35,7 @@ void loop() { ss_loop_demo_2(); }
 
 void loopX() {
   // [WIP] read all sensors, and send the data to "ss"
-  // ss.sensorsDataStore( qtrTimeValues, colorPinValues, sonarDistance );
+  // ss.sensorsDataStore( qtrTimeValues, redValue, greenValue, blueValue, sonarDistance );
 
   // [WIP] compute new state given the stored sensor data and config info
   // ss.computeMode();

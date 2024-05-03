@@ -53,6 +53,9 @@ public:
     if (ix < 0) ix += maxLen;
     memcpy(&y, &list[ix], sizeof(tSens));
   };
+
+  void get(tSens &y) { get(0, y); }; // get the most recent data
+
 };
 
 
