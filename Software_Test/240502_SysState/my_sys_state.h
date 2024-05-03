@@ -3,7 +3,7 @@
 #define my_sys_state_h
 
 #include <Arduino.h>
-#include "my_buffer.h"
+// #include "my_buffer.h"
 
 // list of possible work modes
 #define m0_Stop 0
@@ -25,6 +25,42 @@ typedef struct {
   int m1Speed;
   int m2Speed;
 } tAct;
+
+
+#define ArrayLength 5
+
+template<typename tSens> class tCircularArray {
+  tSens list[ArrayLength];
+  uint16_t ind = 0;
+  bool full = false;
+
+public:
+
+  uint16_t numberOfElements() {
+    if (full)
+      return ArrayLength;
+    else
+      return ind;
+  };
+
+  void put(tSens x) {
+    memcpy(&list[ind], &x, sizeof(tSens));
+    ind += 1;
+    if (ind >= ArrayLength) {
+      ind = 0;
+      full = true;
+    }
+  };
+
+  void get(int n, tSens &y) {
+    // for (int i=0; i<nElems; i++) get(i, sensVals);
+    if (n < 0 || n >= ArrayLength) return;
+    int ix = ind - n - 1;
+    if (ix < 0) ix += ArrayLength;
+    memcpy(&y, &list[ix], sizeof(tSens));
+  };
+};
+
 
 class MySysState {
 public:
@@ -68,4 +104,8 @@ public:
   tCircularArray<tAct> buff2;
 };
 
-#endif // my_sys_state_h
+
+// testing functions implemented in the .cpp :
+void ss_loop_demo_1();
+
+#endif  // my_sys_state_h
