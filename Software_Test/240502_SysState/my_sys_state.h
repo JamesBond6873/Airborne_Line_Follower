@@ -1,7 +1,6 @@
 
 #ifndef my_sys_state_h
 #define my_sys_state_h
-#endif
 
 #include <Arduino.h>
 #include "my_buffer.h"
@@ -40,24 +39,6 @@ public:
     blackThreshold = newBlackThreshold;
   };
 
-  /*
-    uint16_t sensorQTR[8] = { 0, 0, 0, 0, 0, 0, 0, 0 };
-    int sensorRGB[3] = { 0, 0, 0 };
-    float sensorSonar = 0.0;
-    unsigned long sensTime = 0;
-
-    void sensorsDataStore(uint16_t qtrTimeValues[8],
-                          int redValue, int greenValue, int blueValue,
-                          float sonarDistance) {
-      for (int i = 0; i < 8; i++) sensorQTR[i] = qtrTimeValues[i];
-      sensorRGB[0] = redValue;
-      sensorRGB[1] = greenValue;
-      sensorRGB[2] = blueValue;
-      sensorSonar = sonarDistance;
-      sensTime = millis();
-    };
-*/
-
   tSensors sens;
 
   void sensorsDataStore(uint16_t qtrTimeValues[8],
@@ -75,17 +56,6 @@ public:
   float KI = 0.0;
   float KD = 170.0;
 
-  /*
-    int m1Speed = 0, m2Speed = 0;
-    unsigned long actTime = 0;
-
-    void speedsDataStore(int newM1Speed, int newM2Speed) {
-      m1Speed = newM1Speed;
-      m2Speed = newM2Speed;
-      actTime = millis();
-    };
-    */
-
   tAct act;
 
   void speedsDataStore(int newM1Speed, int newM2Speed) {
@@ -97,3 +67,5 @@ public:
   tCircularArray<tSensors> buff1;
   tCircularArray<tAct> buff2;
 };
+
+#endif // my_sys_state_h

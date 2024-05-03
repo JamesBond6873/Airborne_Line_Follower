@@ -2,7 +2,6 @@
 
 #ifndef my_buffer_h
 #define my_buffer_h
-#endif
 
 #include <Arduino.h>
 
@@ -37,3 +36,5 @@ template<typename tSens> class tCircularArray {
     memcpy(&y, &list[ix], sizeof(tSens));
   };
 };
+
+#endif // my_buffer_h
