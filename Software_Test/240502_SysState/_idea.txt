@@ -1,16 +1,5 @@
 
-FPG Airborne line follow:
-- main params (blackThreshold, normalSpeed, KP, KD, KI, ...)
-- save in a circular array (struct or class?): time, sensors, nBlack, err, motor speeds
-- calc new state (state change) based on flags (wallNear, laneLostTime, ...)
-- motion control modes 0=Stop, 1=LineFollow, 2=GoBackToLine, 3=WithinWalls, ...
-- active functions DetectColors, BeepOnColor, WaitOnColor, ...
-- log sensor readings along the path
-- dataLogger, work all the time (restart upon crash?) but change filename upon a large pause on data
-- how to get flags into the pi pico? sd card would be great... R-pi would be the best...
-
-
-FPG Airborne line follow:
+FPG Airborne line follow R-Pi-Pico:
 - main params (blackThreshold, normalSpeed, KP, KD, KI, ...)
 - save in a circular array (struct or class?): time, sensors, nBlack, err, motor speeds
 - calc new state (state change) based on flags (wallNear, laneLostTime, ...)
@@ -18,7 +7,11 @@ FPG Airborne line follow:
 
 - loopMode:  m0_Stop, m1_Calib, m2_LineFollow, m3_GoBackToLine, m4_WithinWalls, m5_ExploreToFindLine...
 - globalFlags / active functions:  detectColorsFlag, beepOnColorFlag, waitOnColorFlag, ...
+- private vars: workingLevel (only setWorkingLevel(n) can change it)
 
-- log sensor readings along the path
+- log sensor readings all along the path
+
+Raspberry Pi3:
 - dataLogger, work all the time (restart upon crash?) but change filename upon a large pause on data
-- how to get flags into the pi pico? sd card would be great... R-pi would be the best...
+- how to get flags into the pi pico? sd card would be great, but R-pi3 can use USB to send cmds.
+- need to make a protocol "I say over, then you can speak, you say over, then I can speak. You start."

@@ -27,10 +27,10 @@ typedef struct {
 } tAct;
 
 
-#define ArrayLength 5
+//#define maxLen 5
 
-template<typename tSens> class tCircularArray {
-  tSens list[ArrayLength];
+template<typename tSens, int maxLen> class tCircularArray {
+  tSens list[maxLen];
   uint16_t ind = 0;
   bool full = false;
 
@@ -38,7 +38,7 @@ public:
 
   uint16_t numberOfElements() {
     if (full)
-      return ArrayLength;
+      return maxLen;
     else
       return ind;
   };
@@ -46,7 +46,7 @@ public:
   void put(tSens x) {
     memcpy(&list[ind], &x, sizeof(tSens));
     ind += 1;
-    if (ind >= ArrayLength) {
+    if (ind >= maxLen) {
       ind = 0;
       full = true;
     }
@@ -54,13 +54,15 @@ public:
 
   void get(int n, tSens &y) {
     // for (int i=0; i<nElems; i++) get(i, sensVals);
-    if (n < 0 || n >= ArrayLength) return;
+    if (n < 0 || n >= maxLen) return;
     int ix = ind - n - 1;
-    if (ix < 0) ix += ArrayLength;
+    if (ix < 0) ix += maxLen;
     memcpy(&y, &list[ix], sizeof(tSens));
   };
 };
 
+
+#define BUFF_LEN 200
 
 class MySysState {
 public:
@@ -100,8 +102,8 @@ public:
     act.actTime = millis();
   };
 
-  tCircularArray<tSensors> buff1;
-  tCircularArray<tAct> buff2;
+  tCircularArray<tSensors, BUFF_LEN> buff1;
+  tCircularArray<tAct, BUFF_LEN> buff2;
 };
 
 
