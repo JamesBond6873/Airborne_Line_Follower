@@ -26,8 +26,8 @@ int frequencyG;
 int frequencyB;
 
 
-int M1 = 200; //Kp = 80
-int M2 = 200; //Kp = 80
+int M1 = 180; //Kp = 80
+int M2 = 180; //Kp = 80
 
 int goBackTime = 100; // time to go back after color detection (ms)
 int goBackSpeed = -125; // speed to go back after color detection (negative values only)
