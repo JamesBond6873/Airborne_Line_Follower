@@ -48,11 +48,24 @@ bool insideLevel3 = false;
 float linePosLast = 0.0;
 
 // unsigned long calib_ti, calib_tf; // time for calibration
+bool t0undefined = true;
 unsigned long t0;        // control sampling rate (period ini)
 unsigned long t1;        // control sampling rate (period end)
 long timeInterval = 10;  // 10ms per loop = 100Hz
 
 int counterLevel3 = 0;  // Counter for 3rd level
+
+
+// -----------------------------------------------------------------
+// working macros, do really send data through the Serial
+#if 0
+#define myserialprint(str) Serial.print(str)
+#define myserialprintln(str) Serial.println(str)
+#else
+// empty macros, cut serial print and save from its time delays
+#define myserialprint(str)
+#define myserialprintln(str)
+#endif
 
 
 // -----------------------------------------------------------------
@@ -64,34 +77,31 @@ void checkColor(int &lastUsed) {
   digitalWrite(S2, LOW);
   digitalWrite(S3, LOW);
   frequencyR = pulseIn(sensorOut, LOW, 1500);  // Timeout 1500 added
-  Serial.print("R= ");                         //printing name
-  Serial.print(frequencyR);                    //printing RED color frequency
-  Serial.print("\t");
+  //Serial.print("R= ");                         //printing name
+  //Serial.print(frequencyR);                    //printing RED color frequency
+  //Serial.print("\t");
   delayMicroseconds(50);
-
-
 
   //GREEN
   digitalWrite(S2, HIGH);
   digitalWrite(S3, HIGH);
   frequencyG = pulseIn(sensorOut, LOW, 1500);  // Timeout 1500 added
-  Serial.print("G= ");                         //printing name
-  Serial.print(frequencyG);                    //printing Green color frequency
-  Serial.print("\t");
+  //Serial.print("G= ");                         //printing name
+  //Serial.print(frequencyG);                    //printing Green color frequency
+  //Serial.print("\t");
   delayMicroseconds(50);
-
 
   //BLUE
   digitalWrite(S2, LOW);
   digitalWrite(S3, HIGH);
   frequencyB = pulseIn(sensorOut, LOW, 1500);  // Timeout 1500 added
-  Serial.print("B= ");                         //printing name
-  Serial.print(frequencyB);                    //printing Blue color frequency
-  Serial.print("\t");
+  //Serial.print("B= ");                         //printing name
+  //Serial.print(frequencyB);                    //printing Blue color frequency
+  //Serial.print("\t");
 
   if (frequencyR < frequencyG - 35 && frequencyR < frequencyB - 35) {  //Important Change: Red detection OFF
-    Serial.print("RED");
-    Serial.print("\t");
+    //Serial.print("RED");
+    //Serial.print("\t");
     lastUsed = 0;
     setSpeed(0, 0, 1, debug);
     delay(0.05);
@@ -101,8 +111,8 @@ void checkColor(int &lastUsed) {
     setColor(255, 0, 0);
     makeSound();
   } else if (frequencyG < frequencyR - 20 && frequencyG < frequencyB - 20) {
-    Serial.print("GREEN");
-    Serial.print("\t");
+    //Serial.print("GREEN");
+    //Serial.print("\t");
     lastUsed = 0;
     setSpeed(0, 0, 1, debug);
     delay(0.05);
@@ -112,8 +122,8 @@ void checkColor(int &lastUsed) {
     setColor(0, 255, 0);
     makeSound();
   } else if (frequencyB < frequencyG - 40 && frequencyB < frequencyR - 40) {
-    Serial.print("BLUE");
-    Serial.print("\t");
+    //Serial.print("BLUE");
+    //Serial.print("\t");
     lastUsed = 0;
     setSpeed(0, 0, 1, debug);
     delay(0.05);
@@ -123,11 +133,12 @@ void checkColor(int &lastUsed) {
     setColor(0, 0, 255);
     makeSound();
   } else {
-    Serial.print("\t");
+    //Serial.print("\t");
   }
   setColor(0, 0, 0);  // LED OFF
   return;
 }
+
 
 void setColor(int redValue, int greenValue, int blueValue) {
   analogWrite(redPin, 255 - redValue);
@@ -191,13 +202,13 @@ float calculatePosition(uint16_t sensorValues[]) {
       counter++;
       acc += i + 1;
       //Serial.print("||||"); Serial.print("\t");
-      Serial.print("*" + String(sensorValues[i]) + "* ");
+      myserialprint("*" + String(sensorValues[i]) + "* ");
     } else {
       //Serial.print(sensorValues[i]); Serial.print("\t");
-      Serial.print(String(sensorValues[i]) + " ");
+      myserialprint(String(sensorValues[i]) + " ");
     }
   }
-  Serial.print("Cnt=" + String(counter) + " ");
+  myserialprint("Cnt=" + String(counter) + " ");
 
   // given the line imaging or the wall distance, find a pose to be
   if (counter > 0) {
@@ -211,11 +222,11 @@ float calculatePosition(uint16_t sensorValues[]) {
     //float wallDistance = measureDistance(TriggerPin, EchoPin);
     wallDistance = measureDistance(TriggerPin, EchoPin);
     //Serial.print("Distance:"); Serial.print(wallDistance);
-    Serial.print("Dist=" + String(wallDistance) + " ");
+    myserialprint("Dist=" + String(wallDistance) + " ");
     if (wallDistance < 25) {
       int linePos2 = calcPosUltrassonicSensor(wallDistance);
       if (linePos2 > 8) {
-        Serial.print("Error, Error, Error");
+        myserialprint("Error, Error, Error");
       } else {
         linePos = linePos2;
       }
@@ -223,7 +234,7 @@ float calculatePosition(uint16_t sensorValues[]) {
     }
   }
   //Serial.print(linePos); Serial.print("\t");
-  Serial.print("LinesPos=" + String(linePos) + " ");
+  myserialprint("LinesPos=" + String(linePos) + " ");
 
   return linePos;
 }
@@ -431,7 +442,7 @@ void setup() {
   // optional: signal that the calibration phase is now over and wait for further
   // input from the user, such as a button press
 
-  t0 = millis();
+  //t0 = millis(); // to replace by the flag t0undefined
 }
 
 
@@ -439,13 +450,19 @@ void setup() {
 int lastUsed = 50;  // Color Sensor flag to avoid multiple color readings for the same mark
 
 void myloop1() {
+
+  // define the end-time of this function (so that it runs in similar times forever)
+  if (t0undefined) {
+    t0 = millis();
+    t0undefined = false;
+  }
   t1 = t0 + timeInterval;
   float speedReducer = 1;
 
   lastUsed += 1;
   counterLevel3 += 1;
 
-  //checkColor(lastUsed);
+  checkColor(lastUsed);
 
   int error = getError(errorAcc);
   ss.sensorsDataStore(sensors, frequencyR, frequencyG, frequencyB, wallDistance);
@@ -458,7 +475,7 @@ void myloop1() {
 
   // set motor speeds using the two motor speed variables above
   // Serial.print("Speeds = \t"); Serial.print(m1Speed); Serial.print("\t"); Serial.print(m2Speed); Serial.println();
-  Serial.println(" Speed=(" + String(m1Speed) + "," + String(m2Speed) + ")");
+  myserialprintln(" Speed=(" + String(m1Speed) + "," + String(m2Speed) + ")");
 
   // sensors & actuator debug
   ss.speedsDataStore(m1Speed, m2Speed);
@@ -499,7 +516,7 @@ void loop() {
   //if (loopCount++ < 100) {
   if (loopCount++ < 1000) {
     // acquire data into the buffers
-    Serial.print("loopCnt=" + String(loopCount) + " ");
+    myserialprint("loopCnt=" + String(loopCount) + " ");
     myloop1();
   } else if (loopMode == 1) {
     // run once loop, buffers show

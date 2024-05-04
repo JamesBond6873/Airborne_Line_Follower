@@ -1,0 +1,2013 @@
+0       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       0       0       0       0       0       0       0      00       0       0       wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+wait on pin 7 to be 0
+loopCnt=1 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-255,255)
+loopCnt=2 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=3 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=4 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=5 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=6 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=7 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=8 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=9 0     0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=10 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=11 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=12 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=13 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=14 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=15 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=16 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=17 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=18 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=19 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=20 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=21 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=22 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=23 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=24 0    0 0 0 0 0 0 0 0 Cnt=0 LinesPos=0.00  Speed=(-220,255)
+loopCnt=25 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=26 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=27 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=28 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=29 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=30 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=31 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=32 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=33 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=34 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=35 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=36 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=37 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=38 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=39 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=40 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=41 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=42 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=43 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=44 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=45 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=46 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=47 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=48 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=49 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=50 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=51 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=52 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=53 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=54 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=55 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=56 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=57 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=58 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=59 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=60 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=61 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=62 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=63 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=64 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=65 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=66 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=67 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=68 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=69 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=70 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=71 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=72 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=73 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=74 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=75 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=76 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=77 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=78 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=79 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=80 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=81 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=82 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=83 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=84 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=85 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=86 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=87 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=88 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=89 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=90 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=91 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=92 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=93 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=94 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=95 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=96 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=97 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=98 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=99 0    0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=100 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=101 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=102 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=103 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=104 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=105 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=106 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=107 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=108 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=109 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=110 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=111 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=112 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=113 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=114 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=115 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=116 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=117 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=118 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=119 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=120 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=121 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=122 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=123 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=124 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=125 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=126 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=127 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=128 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=129 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=130 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=131 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=132 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=133 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=134 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=135 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=136 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=137 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=138 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=139 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=140 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=141 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=142 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=143 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=144 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=145 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=146 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=147 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=148 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=149 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=150 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=151 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=152 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=153 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=154 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=155 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=156 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=157 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=158 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=159 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=160 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=161 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=162 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=163 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=164 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=165 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=166 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=167 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=168 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=169 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=170 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=171 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=172 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=173 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=174 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=175 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=176 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=177 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=178 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=179 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=180 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=181 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=182 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=183 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=184 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=185 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=186 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=187 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=188 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=189 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=190 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=191 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=192 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=193 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=194 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=195 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=196 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=197 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=198 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=199 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=200 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=201 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=202 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=203 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=204 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=205 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=206 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=207 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=208 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=209 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=210 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=211 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=212 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=213 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=214 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=215 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=216 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=217 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=218 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=219 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=220 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=221 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=222 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=223 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=224 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=225 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=226 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=227 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=228 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=229 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=230 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=231 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=232 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=233 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=234 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=235 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=236 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=237 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=238 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=239 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=240 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=241 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=242 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=243 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=244 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=245 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=246 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=247 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=248 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=249 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=250 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=251 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=252 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=253 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=254 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=255 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=256 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=257 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=258 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=259 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=260 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=261 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=262 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=263 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=264 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=265 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=266 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=267 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=268 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=269 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=270 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=271 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=272 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=273 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=274 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=275 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=276 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=277 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=278 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=279 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=280 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=281 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=282 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=283 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=284 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=285 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=286 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=287 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=288 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=289 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=290 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=291 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=292 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=293 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=294 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=295 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=296 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=297 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=298 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=299 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=300 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=301 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=302 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=303 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=304 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=305 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=306 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=307 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=308 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=309 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=310 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=311 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=312 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=313 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=314 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=315 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=316 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=317 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=318 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=319 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=320 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=321 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=322 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=323 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=324 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=325 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=326 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=327 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=328 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=329 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=330 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=331 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=332 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=333 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=334 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=335 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=336 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=337 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=338 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=339 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=340 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=341 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=342 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=343 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=344 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=345 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=346 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=347 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=348 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=349 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=350 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=351 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=352 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=353 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=354 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=355 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=356 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=357 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=358 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=359 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=360 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=361 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=362 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=363 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=364 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=365 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=366 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=367 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=368 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=369 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=370 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=371 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=372 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=373 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=374 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=375 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=376 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=377 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=378 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=379 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=380 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=381 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=382 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=383 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=384 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=385 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=386 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=387 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=388 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=389 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=390 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=391 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=392 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=393 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=394 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=395 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=396 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=397 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=398 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=399 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=400 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=401 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=402 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=403 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=404 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=405 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=406 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=407 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=408 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=409 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=410 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=411 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=412 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=413 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=414 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=415 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=416 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=417 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=418 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=419 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=420 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=421 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=422 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=423 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=424 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=425 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=426 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=427 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=428 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=429 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=430 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=431 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=432 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=433 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=434 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=435 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=436 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=437 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=438 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=439 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=440 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=441 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=442 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=443 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=444 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=445 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=446 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=447 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=448 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=449 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=450 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=451 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=452 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=453 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=454 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=455 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=456 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=457 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=458 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=459 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=460 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=461 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=462 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=463 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=464 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=465 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=466 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=467 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=468 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=469 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=470 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=471 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=472 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=473 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=474 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=475 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=476 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=477 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=478 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=479 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=480 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=481 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=482 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=483 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=484 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=485 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=486 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=487 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=488 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=489 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=490 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=491 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=492 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=493 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=494 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=495 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=496 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=497 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=498 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=499 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=500 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=501 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=502 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=503 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=504 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=505 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=506 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=507 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=508 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=509 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=510 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=511 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=512 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=513 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=514 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=515 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=516 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=517 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=518 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=519 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=520 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=521 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=522 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=523 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=524 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=525 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=526 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=527 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=528 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=529 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=530 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=531 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=532 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=533 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=534 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=535 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=536 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=537 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=538 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=539 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=540 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=541 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=542 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=543 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=544 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=545 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=546 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=547 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=548 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=549 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=550 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=551 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=552 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=553 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=554 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=555 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=556 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=557 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=558 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=559 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=560 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=561 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=562 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=563 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=564 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=565 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=566 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=567 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=568 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=569 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=570 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=571 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=572 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=573 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=574 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=575 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=576 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=577 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=578 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=579 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=580 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=581 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=582 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=583 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=584 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=585 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=586 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=587 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=588 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=589 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=590 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=591 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=592 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=593 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=594 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=595 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=596 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=597 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=598 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=599 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=600 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=601 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=602 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=603 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=604 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=605 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=606 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=607 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=608 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=609 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=610 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=611 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=612 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=613 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=614 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=615 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=616 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=617 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=618 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=619 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=620 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=621 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=622 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=623 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=624 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=625 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=626 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=627 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=628 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=629 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=630 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=631 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=632 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=633 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=634 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=635 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=636 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=637 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=638 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=639 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=640 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=641 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=642 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=643 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=644 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=645 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=646 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=647 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=648 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=649 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=650 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=651 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=652 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=653 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=654 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=655 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=656 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=657 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=658 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=659 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=660 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=661 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=662 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=663 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=664 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=665 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=666 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=667 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=668 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=669 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=670 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=671 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=672 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=673 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=674 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=675 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=676 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=677 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=678 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=679 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=680 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=681 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=682 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=683 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=684 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=685 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=686 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=687 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=688 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=689 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=690 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=691 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=692 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=693 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=694 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=695 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=696 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=697 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=698 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=699 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=700 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=701 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=702 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=703 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=704 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=705 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=706 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=707 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=708 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=709 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=710 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=711 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=712 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=713 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=714 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=715 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=716 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=717 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=718 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=719 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=720 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=721 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=722 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=723 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=724 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=725 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=726 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=727 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=728 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=729 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=730 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=731 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=732 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=733 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=734 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=735 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=736 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=737 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=738 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=739 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=740 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=741 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=742 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=743 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=744 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=745 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=746 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=747 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=748 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=749 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=750 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=751 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=752 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=753 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=754 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=755 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=756 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=757 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=758 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=759 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=760 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=761 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=762 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=763 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=764 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=765 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=766 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=767 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=768 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=769 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=770 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=771 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=772 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=773 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=774 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=775 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=776 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=777 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=778 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=779 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=780 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=781 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=782 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=783 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=784 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=785 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=786 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=787 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=788 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=789 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=790 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=791 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=792 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=793 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=794 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=795 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=796 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=797 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=798 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=799 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=800 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=801 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=802 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=803 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=804 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=805 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=806 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=807 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=808 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=809 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=810 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=811 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=812 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=813 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=814 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=815 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=816 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=817 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=818 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=819 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=820 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=821 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=822 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=823 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=824 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=825 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=826 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=827 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=828 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=829 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=830 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=831 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=832 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=833 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=834 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=835 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=836 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=837 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=838 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=839 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=840 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=841 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=842 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=843 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=844 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=845 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=846 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=847 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=848 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=849 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=850 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=851 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=852 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=853 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=854 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=855 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=856 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=857 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=858 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=859 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=860 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=861 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=862 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=863 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=864 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=865 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=866 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=867 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=868 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=869 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=870 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=871 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=872 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=873 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=874 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=875 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=876 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=877 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=878 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=879 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=880 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=881 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=882 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=883 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=884 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=885 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=886 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=887 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=888 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=889 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=890 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=891 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=892 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=893 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=894 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=895 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=896 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=897 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=898 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=899 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=900 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=901 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=902 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=903 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=904 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=905 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=906 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=907 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=908 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=909 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=910 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=911 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=912 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=913 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=914 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=915 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=916 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=917 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=918 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=919 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=920 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=921 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=922 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=923 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=924 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=925 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=926 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=927 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=928 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=929 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=930 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=931 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=932 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=933 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=934 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=935 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=936 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=937 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=938 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=939 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=940 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=941 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=942 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=943 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=944 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=945 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=946 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=947 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=948 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=949 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=950 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=951 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=952 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=953 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=954 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=955 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=956 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=957 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=958 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=959 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=960 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=961 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=962 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=963 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=964 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=965 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=966 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=967 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=968 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=969 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=970 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=971 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=972 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=973 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=974 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=975 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=976 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=977 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=978 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=979 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=980 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=981 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=982 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=983 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=984 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=985 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=986 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=987 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=988 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=989 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=990 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=991 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=992 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=993 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=994 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=995 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=996 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=997 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=998 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=999 0   0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+loopCnt=1000 0  0 0 0 0 0 0 0 0 Cnt=0 Dist=0.00 LinesPos=0.00  Speed=(-220,255)
+myloop2
+t=72474 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72474 S= -220 255
+t=72460 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72460 S= -220 255
+t=72445 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72446 S= -220 255
+t=72431 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72431 S= -220 255
+t=72417 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72417 S= -220 255
+t=72403 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72403 S= -220 255
+t=72389 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72389 S= -220 255
+t=72374 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72375 S= -220 255
+t=72360 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72360 S= -220 255
+t=72346 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72346 S= -220 255
+t=72332 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72332 S= -220 255
+t=72318 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72318 S= -220 255
+t=72303 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72304 S= -220 255
+t=72289 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72289 S= -220 255
+t=72275 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72275 S= -220 255
+t=72261 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72261 S= -220 255
+t=72247 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72247 S= -220 255
+t=72232 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72233 S= -220 255
+t=72218 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72218 S= -220 255
+t=72204 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72204 S= -220 255
+t=72190 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72190 S= -220 255
+t=72176 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72176 S= -220 255
+t=72162 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72162 S= -220 255
+t=72147 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72147 S= -220 255
+t=72133 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72133 S= -220 255
+t=72119 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72119 S= -220 255
+t=72105 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72105 S= -220 255
+t=72091 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72091 S= -220 255
+t=72076 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72077 S= -220 255
+t=72062 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72062 S= -220 255
+t=72048 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72048 S= -220 255
+t=72034 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72034 S= -220 255
+t=72020 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72020 S= -220 255
+t=72005 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=72006 S= -220 255
+t=71991 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71991 S= -220 255
+t=71977 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71977 S= -220 255
+t=71963 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71963 S= -220 255
+t=71949 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71949 S= -220 255
+t=71934 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71934 S= -220 255
+t=71920 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71920 S= -220 255
+t=71906 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71906 S= -220 255
+t=71892 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71892 S= -220 255
+t=71878 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71878 S= -220 255
+t=71863 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71864 S= -220 255
+t=71849 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71849 S= -220 255
+t=71835 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71835 S= -220 255
+t=71821 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71821 S= -220 255
+t=71807 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71807 S= -220 255
+t=71792 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71793 S= -220 255
+t=71778 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71778 S= -220 255
+t=71764 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71764 S= -220 255
+t=71750 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71750 S= -220 255
+t=71736 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71736 S= -220 255
+t=71721 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71722 S= -220 255
+t=71707 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71707 S= -220 255
+t=71693 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71693 S= -220 255
+t=71679 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71679 S= -220 255
+t=71665 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71665 S= -220 255
+t=71650 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71651 S= -220 255
+t=71636 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71636 S= -220 255
+t=71622 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71622 S= -220 255
+t=71608 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71608 S= -220 255
+t=71593 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71594 S= -220 255
+t=71579 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71579 S= -220 255
+t=71565 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71565 S= -220 255
+t=71551 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71551 S= -220 255
+t=71537 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71537 S= -220 255
+t=71523 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71523 S= -220 255
+t=71508 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71509 S= -220 255
+t=71494 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71494 S= -220 255
+t=71480 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71480 S= -220 255
+t=71466 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71466 S= -220 255
+t=71451 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71452 S= -220 255
+t=71437 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71437 S= -220 255
+t=71423 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71423 S= -220 255
+t=71409 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71409 S= -220 255
+t=71395 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71395 S= -220 255
+t=71380 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71381 S= -220 255
+t=71366 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71366 S= -220 255
+t=71352 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71352 S= -220 255
+t=71338 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71338 S= -220 255
+t=71324 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71324 S= -220 255
+t=71309 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71310 S= -220 255
+t=71295 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71295 S= -220 255
+t=71281 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71281 S= -220 255
+t=71267 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71267 S= -220 255
+t=71253 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71253 S= -220 255
+t=71238 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71239 S= -220 255
+t=71224 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71224 S= -220 255
+t=71210 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71210 S= -220 255
+t=71196 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71196 S= -220 255
+t=71182 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71182 S= -220 255
+t=71167 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71168 S= -220 255
+t=71153 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71153 S= -220 255
+t=71139 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71139 S= -220 255
+t=71125 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71125 S= -220 255
+t=71111 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71111 S= -220 255
+t=71096 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71097 S= -220 255
+t=71082 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71082 S= -220 255
+t=71068 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71068 S= -220 255
+t=71054 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71054 S= -220 255
+t=71040 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71040 S= -220 255
+t=71025 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71026 S= -220 255
+t=71011 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=71011 S= -220 255
+t=70997 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70997 S= -220 255
+t=70983 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70983 S= -220 255
+t=70969 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70969 S= -220 255
+t=70954 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70955 S= -220 255
+t=70940 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70940 S= -220 255
+t=70926 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70926 S= -220 255
+t=70912 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70912 S= -220 255
+t=70898 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70898 S= -220 255
+t=70883 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70884 S= -220 255
+t=70869 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70869 S= -220 255
+t=70855 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70855 S= -220 255
+t=70841 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70841 S= -220 255
+t=70827 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70827 S= -220 255
+t=70812 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70813 S= -220 255
+t=70798 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70798 S= -220 255
+t=70784 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70784 S= -220 255
+t=70770 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70770 S= -220 255
+t=70756 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70756 S= -220 255
+t=70741 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70742 S= -220 255
+t=70727 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70727 S= -220 255
+t=70713 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70713 S= -220 255
+t=70699 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70699 S= -220 255
+t=70684 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70685 S= -220 255
+t=70670 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70670 S= -220 255
+t=70656 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70656 S= -220 255
+t=70642 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70642 S= -220 255
+t=70628 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70628 S= -220 255
+t=70613 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70614 S= -220 255
+t=70599 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70599 S= -220 255
+t=70585 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70585 S= -220 255
+t=70571 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70571 S= -220 255
+t=70557 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70557 S= -220 255
+t=70542 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70543 S= -220 255
+t=70528 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70528 S= -220 255
+t=70514 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70514 S= -220 255
+t=70500 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70500 S= -220 255
+t=70486 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70486 S= -220 255
+t=70471 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70472 S= -220 255
+t=70457 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70457 S= -220 255
+t=70443 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70443 S= -220 255
+t=70429 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70429 S= -220 255
+t=70415 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70415 S= -220 255
+t=70400 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70401 S= -220 255
+t=70386 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70386 S= -220 255
+t=70372 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70372 S= -220 255
+t=70358 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70358 S= -220 255
+t=70344 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70344 S= -220 255
+t=70329 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70330 S= -220 255
+t=70315 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70315 S= -220 255
+t=70301 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70301 S= -220 255
+t=70287 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70287 S= -220 255
+t=70273 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70273 S= -220 255
+t=70258 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70259 S= -220 255
+t=70244 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70244 S= -220 255
+t=70230 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70230 S= -220 255
+t=70216 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70216 S= -220 255
+t=70202 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70202 S= -220 255
+t=70187 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70188 S= -220 255
+t=70173 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70173 S= -220 255
+t=70159 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70159 S= -220 255
+t=70145 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70145 S= -220 255
+t=70131 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70131 S= -220 255
+t=70116 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70117 S= -220 255
+t=70102 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70102 S= -220 255
+t=70088 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70088 S= -220 255
+t=70074 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70074 S= -220 255
+t=70060 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70060 S= -220 255
+t=70045 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70046 S= -220 255
+t=70031 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70031 S= -220 255
+t=70017 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70017 S= -220 255
+t=70003 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=70003 S= -220 255
+t=69989 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69989 S= -220 255
+t=69974 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69975 S= -220 255
+t=69960 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69960 S= -220 255
+t=69946 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69946 S= -220 255
+t=69932 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69932 S= -220 255
+t=69918 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69918 S= -220 255
+t=69903 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69904 S= -220 255
+t=69889 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69889 S= -220 255
+t=69875 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69875 S= -220 255
+t=69861 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69861 S= -220 255
+t=69846 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69847 S= -220 255
+t=69832 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69832 S= -220 255
+t=69818 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69818 S= -220 255
+t=69804 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69804 S= -220 255
+t=69790 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69790 S= -220 255
+t=69775 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69776 S= -220 255
+t=69761 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69761 S= -220 255
+t=69747 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69747 S= -220 255
+t=69733 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69733 S= -220 255
+t=69719 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69719 S= -220 255
+t=69704 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69705 S= -220 255
+t=69690 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69690 S= -220 255
+t=69676 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69676 S= -220 255
+t=69662 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69662 S= -220 255
+t=69648 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69648 S= -220 255
+t=69633 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69634 S= -220 255
+t=69619 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69619 S= -220 255
+t=69605 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69605 S= -220 255
+t=69591 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69591 S= -220 255
+t=69577 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69577 S= -220 255
+t=69562 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69562 S= -220 255
+t=69548 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69548 S= -220 255
+t=69534 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69534 S= -220 255
+t=69520 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69520 S= -220 255
+t=69506 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69506 S= -220 255
+t=69491 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69492 S= -220 255
+t=69477 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69477 S= -220 255
+t=69463 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69463 S= -220 255
+t=69449 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69449 S= -220 255
+t=69435 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69435 S= -220 255
+t=69420 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69421 S= -220 255
+t=69406 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69406 S= -220 255
+t=69392 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69392 S= -220 255
+t=69378 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69378 S= -220 255
+t=69364 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69364 S= -220 255
+t=69350 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69350 S= -220 255
+t=69335 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69336 S= -220 255
+t=69321 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69321 S= -220 255
+t=69307 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69307 S= -220 255
+t=69293 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69293 S= -220 255
+t=69279 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69279 S= -220 255
+t=69264 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69265 S= -220 255
+t=69250 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69250 S= -220 255
+t=69236 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69236 S= -220 255
+t=69222 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69222 S= -220 255
+t=69208 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69208 S= -220 255
+t=69193 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69194 S= -220 255
+t=69179 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69179 S= -220 255
+t=69165 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69165 S= -220 255
+t=69151 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69151 S= -220 255
+t=69137 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69137 S= -220 255
+t=69122 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69123 S= -220 255
+t=69108 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69108 S= -220 255
+t=69094 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69094 S= -220 255
+t=69080 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69080 S= -220 255
+t=69066 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69066 S= -220 255
+t=69051 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69052 S= -220 255
+t=69037 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69037 S= -220 255
+t=69023 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69023 S= -220 255
+t=69009 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=69009 S= -220 255
+t=68995 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68995 S= -220 255
+t=68980 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68981 S= -220 255
+t=68966 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68966 S= -220 255
+t=68952 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68952 S= -220 255
+t=68938 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68938 S= -220 255
+t=68924 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68924 S= -220 255
+t=68909 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68910 S= -220 255
+t=68895 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68895 S= -220 255
+t=68881 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68881 S= -220 255
+t=68867 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68867 S= -220 255
+t=68853 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68853 S= -220 255
+t=68838 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68839 S= -220 255
+t=68824 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68824 S= -220 255
+t=68810 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68810 S= -220 255
+t=68796 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68796 S= -220 255
+t=68782 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68782 S= -220 255
+t=68767 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68767 S= -220 255
+t=68753 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68753 S= -220 255
+t=68739 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68739 S= -220 255
+t=68725 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68725 S= -220 255
+t=68711 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68711 S= -220 255
+t=68696 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68696 S= -220 255
+t=68682 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68682 S= -220 255
+t=68668 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68668 S= -220 255
+t=68654 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68654 S= -220 255
+t=68639 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68640 S= -220 255
+t=68625 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68625 S= -220 255
+t=68611 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68611 S= -220 255
+t=68597 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68597 S= -220 255
+t=68583 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68583 S= -220 255
+t=68569 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68569 S= -220 255
+t=68554 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68555 S= -220 255
+t=68540 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68540 S= -220 255
+t=68526 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68526 S= -220 255
+t=68512 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68512 S= -220 255
+t=68498 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68498 S= -220 255
+t=68483 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68484 S= -220 255
+t=68469 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68469 S= -220 255
+t=68455 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68455 S= -220 255
+t=68441 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68441 S= -220 255
+t=68427 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68427 S= -220 255
+t=68412 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68413 S= -220 255
+t=68398 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68399 S= -220 255
+t=68384 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68384 S= -220 255
+t=68370 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68370 S= -220 255
+t=68356 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68356 S= -220 255
+t=68342 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68342 S= -220 255
+t=68327 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68328 S= -220 255
+t=68313 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68313 S= -220 255
+t=68299 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68299 S= -220 255
+t=68285 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68285 S= -220 255
+t=68270 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68271 S= -220 255
+t=68256 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68256 S= -220 255
+t=68242 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68242 S= -220 255
+t=68228 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68228 S= -220 255
+t=68214 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68214 S= -220 255
+t=68200 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68200 S= -220 255
+t=68185 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68186 S= -220 255
+t=68171 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68171 S= -220 255
+t=68157 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68157 S= -220 255
+t=68143 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68143 S= -220 255
+t=68129 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68129 S= -220 255
+t=68114 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68115 S= -220 255
+t=68100 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68100 S= -220 255
+t=68086 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68086 S= -220 255
+t=68072 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68072 S= -220 255
+t=68058 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68058 S= -220 255
+t=68043 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68044 S= -220 255
+t=68029 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68029 S= -220 255
+t=68015 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68015 S= -220 255
+t=68001 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=68001 S= -220 255
+t=67987 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67987 S= -220 255
+t=67972 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67973 S= -220 255
+t=67958 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67958 S= -220 255
+t=67944 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67944 S= -220 255
+t=67930 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67930 S= -220 255
+t=67916 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67916 S= -220 255
+t=67901 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67902 S= -220 255
+t=67887 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67887 S= -220 255
+t=67873 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67873 S= -220 255
+t=67859 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67859 S= -220 255
+t=67844 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67845 S= -220 255
+t=67830 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67830 S= -220 255
+t=67816 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67816 S= -220 255
+t=67802 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67802 S= -220 255
+t=67788 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67788 S= -220 255
+t=67774 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67774 S= -220 255
+t=67759 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67760 S= -220 255
+t=67745 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67745 S= -220 255
+t=67731 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67731 S= -220 255
+t=67717 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67717 S= -220 255
+t=67702 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67703 S= -220 255
+t=67688 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67689 S= -220 255
+t=67674 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67674 S= -220 255
+t=67660 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67660 S= -220 255
+t=67646 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67646 S= -220 255
+t=67631 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67632 S= -220 255
+t=67617 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67617 S= -220 255
+t=67603 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67603 S= -220 255
+t=67589 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67589 S= -220 255
+t=67575 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67575 S= -220 255
+t=67561 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67561 S= -220 255
+t=67546 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67546 S= -220 255
+t=67532 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67532 S= -220 255
+t=67518 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67518 S= -220 255
+t=67504 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67504 S= -220 255
+t=67490 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67490 S= -220 255
+t=67475 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67475 S= -220 255
+t=67461 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67461 S= -220 255
+t=67447 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67447 S= -220 255
+t=67433 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67433 S= -220 255
+t=67418 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67419 S= -220 255
+t=67404 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67404 S= -220 255
+t=67390 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67390 S= -220 255
+t=67376 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67376 S= -220 255
+t=67362 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67362 S= -220 255
+t=67347 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67348 S= -220 255
+t=67333 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67333 S= -220 255
+t=67319 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67319 S= -220 255
+t=67305 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67305 S= -220 255
+t=67291 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67291 S= -220 255
+t=67276 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67277 S= -220 255
+t=67262 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67262 S= -220 255
+t=67248 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67248 S= -220 255
+t=67234 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67234 S= -220 255
+t=67220 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67220 S= -220 255
+t=67205 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67206 S= -220 255
+t=67191 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67191 S= -220 255
+t=67177 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67177 S= -220 255
+t=67163 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67163 S= -220 255
+t=67149 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67149 S= -220 255
+t=67134 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67135 S= -220 255
+t=67120 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67120 S= -220 255
+t=67106 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67106 S= -220 255
+t=67092 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67092 S= -220 255
+t=67078 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67078 S= -220 255
+t=67063 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67064 S= -220 255
+t=67049 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67049 S= -220 255
+t=67035 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67035 S= -220 255
+t=67021 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67021 S= -220 255
+t=67007 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=67007 S= -220 255
+t=66992 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66993 S= -220 255
+t=66978 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66978 S= -220 255
+t=66964 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66964 S= -220 255
+t=66950 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66950 S= -220 255
+t=66936 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66936 S= -220 255
+t=66921 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66922 S= -220 255
+t=66907 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66907 S= -220 255
+t=66893 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66893 S= -220 255
+t=66879 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66879 S= -220 255
+t=66865 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66865 S= -220 255
+t=66850 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66851 S= -220 255
+t=66836 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66836 S= -220 255
+t=66822 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66822 S= -220 255
+t=66808 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66808 S= -220 255
+t=66794 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66794 S= -220 255
+t=66779 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66779 S= -220 255
+t=66765 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66765 S= -220 255
+t=66751 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66751 S= -220 255
+t=66737 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66737 S= -220 255
+t=66722 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66723 S= -220 255
+t=66708 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66708 S= -220 255
+t=66694 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66694 S= -220 255
+t=66680 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66680 S= -220 255
+t=66666 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66666 S= -220 255
+t=66651 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66652 S= -220 255
+t=66637 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66637 S= -220 255
+t=66623 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66623 S= -220 255
+t=66609 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66609 S= -220 255
+t=66595 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66595 S= -220 255
+t=66580 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66581 S= -220 255
+t=66566 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66566 S= -220 255
+t=66552 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66552 S= -220 255
+t=66538 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66538 S= -220 255
+t=66524 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66524 S= -220 255
+t=66509 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66510 S= -220 255
+t=66495 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66495 S= -220 255
+t=66481 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66481 S= -220 255
+t=66467 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66467 S= -220 255
+t=66453 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66453 S= -220 255
+t=66438 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66439 S= -220 255
+t=66424 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66424 S= -220 255
+t=66410 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66410 S= -220 255
+t=66396 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66396 S= -220 255
+t=66382 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66382 S= -220 255
+t=66367 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66368 S= -220 255
+t=66353 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66353 S= -220 255
+t=66339 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66339 S= -220 255
+t=66325 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66325 S= -220 255
+t=66311 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66311 S= -220 255
+t=66296 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66297 S= -220 255
+t=66282 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66282 S= -220 255
+t=66268 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66268 S= -220 255
+t=66254 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66254 S= -220 255
+t=66240 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66240 S= -220 255
+t=66226 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66226 S= -220 255
+t=66211 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66211 S= -220 255
+t=66197 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66197 S= -220 255
+t=66183 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66183 S= -220 255
+t=66169 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66169 S= -220 255
+t=66154 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66155 S= -220 255
+t=66140 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66140 S= -220 255
+t=66126 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66126 S= -220 255
+t=66112 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66112 S= -220 255
+t=66098 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66098 S= -220 255
+t=66084 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66084 S= -220 255
+t=66069 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66070 S= -220 255
+t=66055 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66055 S= -220 255
+t=66041 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66041 S= -220 255
+t=66027 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66027 S= -220 255
+t=66013 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=66013 S= -220 255
+t=65998 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65999 S= -220 255
+t=65984 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65984 S= -220 255
+t=65970 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65970 S= -220 255
+t=65956 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65956 S= -220 255
+t=65942 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65942 S= -220 255
+t=65927 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65928 S= -220 255
+t=65913 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65913 S= -220 255
+t=65899 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65899 S= -220 255
+t=65885 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65885 S= -220 255
+t=65871 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65871 S= -220 255
+t=65856 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65857 S= -220 255
+t=65842 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65842 S= -220 255
+t=65828 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65828 S= -220 255
+t=65814 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65814 S= -220 255
+t=65800 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65800 S= -220 255
+t=65785 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65786 S= -220 255
+t=65771 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65771 S= -220 255
+t=65757 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65757 S= -220 255
+t=65743 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65743 S= -220 255
+t=65729 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65729 S= -220 255
+t=65714 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65715 S= -220 255
+t=65700 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65700 S= -220 255
+t=65686 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65686 S= -220 255
+t=65672 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65672 S= -220 255
+t=65658 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65658 S= -220 255
+t=65643 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65644 S= -220 255
+t=65629 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65629 S= -220 255
+t=65615 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65615 S= -220 255
+t=65601 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65601 S= -220 255
+t=65587 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65587 S= -220 255
+t=65572 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65573 S= -220 255
+t=65558 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65558 S= -220 255
+t=65544 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65544 S= -220 255
+t=65530 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65530 S= -220 255
+t=65516 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65516 S= -220 255
+t=65501 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65502 S= -220 255
+t=65487 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65487 S= -220 255
+t=65473 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65473 S= -220 255
+t=65459 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65459 S= -220 255
+t=65445 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65445 S= -220 255
+t=65430 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65431 S= -220 255
+t=65416 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65416 S= -220 255
+t=65402 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65402 S= -220 255
+t=65388 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65388 S= -220 255
+t=65374 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65374 S= -220 255
+t=65359 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65360 S= -220 255
+t=65345 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65345 S= -220 255
+t=65331 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65331 S= -220 255
+t=65317 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65317 S= -220 255
+t=65303 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65303 S= -220 255
+t=65288 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65289 S= -220 255
+t=65274 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65274 S= -220 255
+t=65260 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65260 S= -220 255
+t=65246 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65246 S= -220 255
+t=65232 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65232 S= -220 255
+t=65217 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65218 S= -220 255
+t=65203 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65203 S= -220 255
+t=65189 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65189 S= -220 255
+t=65175 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65175 S= -220 255
+t=65161 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65161 S= -220 255
+t=65146 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65147 S= -220 255
+t=65132 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65132 S= -220 255
+t=65118 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65118 S= -220 255
+t=65104 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65104 S= -220 255
+t=65090 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65090 S= -220 255
+t=65075 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65076 S= -220 255
+t=65061 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65061 S= -220 255
+t=65047 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65047 S= -220 255
+t=65033 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65033 S= -220 255
+t=65019 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65019 S= -220 255
+t=65004 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=65005 S= -220 255
+t=64990 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64990 S= -220 255
+t=64976 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64976 S= -220 255
+t=64962 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64962 S= -220 255
+t=64948 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64948 S= -220 255
+t=64934 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64934 S= -220 255
+t=64919 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64919 S= -220 255
+t=64905 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64905 S= -220 255
+t=64891 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64891 S= -220 255
+t=64877 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64877 S= -220 255
+t=64862 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64863 S= -220 255
+t=64848 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64848 S= -220 255
+t=64834 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64834 S= -220 255
+t=64820 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64820 S= -220 255
+t=64806 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64806 S= -220 255
+t=64791 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64792 S= -220 255
+t=64777 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64777 S= -220 255
+t=64763 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64763 S= -220 255
+t=64749 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64749 S= -220 255
+t=64735 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64735 S= -220 255
+t=64720 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64721 S= -220 255
+t=64706 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64706 S= -220 255
+t=64692 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64692 S= -220 255
+t=64678 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64678 S= -220 255
+t=64664 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64664 S= -220 255
+t=64649 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64650 S= -220 255
+t=64635 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64635 S= -220 255
+t=64621 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64621 S= -220 255
+t=64607 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64607 S= -220 255
+t=64593 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64593 S= -220 255
+t=64578 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64579 S= -220 255
+t=64564 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64564 S= -220 255
+t=64550 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64550 S= -220 255
+t=64536 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64536 S= -220 255
+t=64522 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64522 S= -220 255
+t=64507 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64507 S= -220 255
+t=64493 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64493 S= -220 255
+t=64479 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64479 S= -220 255
+t=64465 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64465 S= -220 255
+t=64450 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64451 S= -220 255
+t=64436 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64436 S= -220 255
+t=64422 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64422 S= -220 255
+t=64408 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64408 S= -220 255
+t=64394 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64394 S= -220 255
+t=64379 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64380 S= -220 255
+t=64365 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64365 S= -220 255
+t=64351 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64351 S= -220 255
+t=64337 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64337 S= -220 255
+t=64323 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64323 S= -220 255
+t=64309 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64309 S= -220 255
+t=64294 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64295 S= -220 255
+t=64280 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64280 S= -220 255
+t=64266 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64266 S= -220 255
+t=64252 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64252 S= -220 255
+t=64237 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64238 S= -220 255
+t=64223 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64223 S= -220 255
+t=64209 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64209 S= -220 255
+t=64195 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64195 S= -220 255
+t=64181 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64181 S= -220 255
+t=64167 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64167 S= -220 255
+t=64152 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64152 S= -220 255
+t=64138 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64138 S= -220 255
+t=64124 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64124 S= -220 255
+t=64110 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64110 S= -220 255
+t=64096 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64096 S= -220 255
+t=64081 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64082 S= -220 255
+t=64067 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64067 S= -220 255
+t=64053 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64053 S= -220 255
+t=64039 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64039 S= -220 255
+t=64025 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64025 S= -220 255
+t=64010 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=64011 S= -220 255
+t=63996 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63996 S= -220 255
+t=63982 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63982 S= -220 255
+t=63968 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63968 S= -220 255
+t=63954 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63954 S= -220 255
+t=63939 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63940 S= -220 255
+t=63925 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63925 S= -220 255
+t=63911 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63911 S= -220 255
+t=63897 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63897 S= -220 255
+t=63883 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63883 S= -220 255
+t=63868 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63869 S= -220 255
+t=63854 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63854 S= -220 255
+t=63840 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63840 S= -220 255
+t=63826 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63826 S= -220 255
+t=63812 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63812 S= -220 255
+t=63797 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63798 S= -220 255
+t=63783 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63783 S= -220 255
+t=63769 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63769 S= -220 255
+t=63755 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63755 S= -220 255
+t=63741 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63741 S= -220 255
+t=63726 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63727 S= -220 255
+t=63712 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63712 S= -220 255
+t=63698 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63698 S= -220 255
+t=63684 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63684 S= -220 255
+t=63670 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63670 S= -220 255
+t=63655 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63656 S= -220 255
+t=63641 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63641 S= -220 255
+t=63627 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63627 S= -220 255
+t=63613 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63613 S= -220 255
+t=63599 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63599 S= -220 255
+t=63584 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63584 S= -220 255
+t=63570 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63570 S= -220 255
+t=63556 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63556 S= -220 255
+t=63542 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63542 S= -220 255
+t=63528 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63528 S= -220 255
+t=63513 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63513 S= -220 255
+t=63499 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63499 S= -220 255
+t=63485 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63485 S= -220 255
+t=63471 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63471 S= -220 255
+t=63457 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63457 S= -220 255
+t=63442 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63443 S= -220 255
+t=63428 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63428 S= -220 255
+t=63414 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63414 S= -220 255
+t=63400 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63400 S= -220 255
+t=63385 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63386 S= -220 255
+t=63371 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63371 S= -220 255
+t=63357 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63357 S= -220 255
+t=63343 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63343 S= -220 255
+t=63329 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63329 S= -220 255
+t=63314 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63315 S= -220 255
+t=63300 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63300 S= -220 255
+t=63286 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63286 S= -220 255
+t=63272 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63272 S= -220 255
+t=63258 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63258 S= -220 255
+t=63243 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63244 S= -220 255
+t=63229 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63229 S= -220 255
+t=63215 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63215 S= -220 255
+t=63201 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63201 S= -220 255
+t=63187 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63187 S= -220 255
+t=63172 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63173 S= -220 255
+t=63158 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63158 S= -220 255
+t=63144 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63144 S= -220 255
+t=63130 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63130 S= -220 255
+t=63116 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63116 S= -220 255
+t=63101 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63101 S= -220 255
+t=63087 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63087 S= -220 255
+t=63073 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63073 S= -220 255
+t=63059 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63059 S= -220 255
+t=63045 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63045 S= -220 255
+t=63030 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63031 S= -220 255
+t=63016 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63016 S= -220 255
+t=63002 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=63002 S= -220 255
+t=62988 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62988 S= -220 255
+t=62974 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62974 S= -220 255
+t=62959 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62959 S= -220 255
+t=62945 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62945 S= -220 255
+t=62931 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62931 S= -220 255
+t=62917 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62917 S= -220 255
+t=62903 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62903 S= -220 255
+t=62888 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62889 S= -220 255
+t=62874 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62874 S= -220 255
+t=62860 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62860 S= -220 255
+t=62846 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62846 S= -220 255
+t=62832 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62832 S= -220 255
+t=62817 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62817 S= -220 255
+t=62803 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62803 S= -220 255
+t=62789 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62789 S= -220 255
+t=62775 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62775 S= -220 255
+t=62761 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62761 S= -220 255
+t=62746 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62747 S= -220 255
+t=62732 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62732 S= -220 255
+t=62718 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62718 S= -220 255
+t=62704 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62704 S= -220 255
+t=62690 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62690 S= -220 255
+t=62675 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62675 S= -220 255
+t=62661 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62661 S= -220 255
+t=62647 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62647 S= -220 255
+t=62633 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62633 S= -220 255
+t=62619 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62619 S= -220 255
+t=62604 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62605 S= -220 255
+t=62590 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62590 S= -220 255
+t=62576 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62576 S= -220 255
+t=62562 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62562 S= -220 255
+t=62548 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62548 S= -220 255
+t=62534 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62534 S= -220 255
+t=62519 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62519 S= -220 255
+t=62505 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62505 S= -220 255
+t=62491 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62491 S= -220 255
+t=62477 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62477 S= -220 255
+t=62463 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62463 S= -220 255
+t=62448 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62448 S= -220 255
+t=62434 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62434 S= -220 255
+t=62420 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62420 S= -220 255
+t=62406 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62406 S= -220 255
+t=62392 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62392 S= -220 255
+t=62377 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62378 S= -220 255
+t=62363 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62363 S= -220 255
+t=62349 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62349 S= -220 255
+t=62335 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62335 S= -220 255
+t=62321 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62321 S= -220 255
+t=62306 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62306 S= -220 255
+t=62292 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62292 S= -220 255
+t=62278 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62278 S= -220 255
+t=62264 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62264 S= -220 255
+t=62249 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62250 S= -220 255
+t=62235 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62235 S= -220 255
+t=62221 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62221 S= -220 255
+t=62207 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62207 S= -220 255
+t=62193 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62193 S= -220 255
+t=62179 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62179 S= -220 255
+t=62164 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62164 S= -220 255
+t=62150 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62150 S= -220 255
+t=62136 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62136 S= -220 255
+t=62122 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62122 S= -220 255
+t=62107 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62108 S= -220 255
+t=62093 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62093 S= -220 255
+t=62079 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62079 S= -220 255
+t=62065 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62065 S= -220 255
+t=62051 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62051 S= -220 255
+t=62036 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62037 S= -220 255
+t=62022 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62022 S= -220 255
+t=62008 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=62008 S= -220 255
+t=61994 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61994 S= -220 255
+t=61980 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61980 S= -220 255
+t=61966 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61966 S= -220 255
+t=61951 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61952 S= -220 255
+t=61937 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61937 S= -220 255
+t=61923 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61923 S= -220 255
+t=61909 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61909 S= -220 255
+t=61895 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61895 S= -220 255
+t=61880 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61880 S= -220 255
+t=61866 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61866 S= -220 255
+t=61852 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61852 S= -220 255
+t=61838 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61838 S= -220 255
+t=61823 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61824 S= -220 255
+t=61809 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61809 S= -220 255
+t=61795 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61795 S= -220 255
+t=61781 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61781 S= -220 255
+t=61767 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61767 S= -220 255
+t=61753 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61753 S= -220 255
+t=61738 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61739 S= -220 255
+t=61724 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61724 S= -220 255
+t=61710 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61710 S= -220 255
+t=61696 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61696 S= -220 255
+t=61682 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61682 S= -220 255
+t=61667 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61668 S= -220 255
+t=61653 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61653 S= -220 255
+t=61639 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61639 S= -220 255
+t=61625 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61625 S= -220 255
+t=61611 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61611 S= -220 255
+t=61596 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61596 S= -220 255
+t=61582 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61582 S= -220 255
+t=61568 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61568 S= -220 255
+t=61554 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61554 S= -220 255
+t=61540 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61540 S= -220 255
+t=61526 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61526 S= -220 255
+t=61511 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61511 S= -220 255
+t=61497 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61497 S= -220 255
+t=61483 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61483 S= -220 255
+t=61469 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61469 S= -220 255
+t=61454 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61455 S= -220 255
+t=61440 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61440 S= -220 255
+t=61426 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61426 S= -220 255
+t=61412 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61412 S= -220 255
+t=61398 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61398 S= -220 255
+t=61384 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61384 S= -220 255
+t=61369 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61369 S= -220 255
+t=61355 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61355 S= -220 255
+t=61341 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61341 S= -220 255
+t=61327 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61327 S= -220 255
+t=61313 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61313 S= -220 255
+t=61298 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61299 S= -220 255
+t=61284 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61284 S= -220 255
+t=61270 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61270 S= -220 255
+t=61256 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61256 S= -220 255
+t=61242 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61242 S= -220 255
+t=61227 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61228 S= -220 255
+t=61213 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61213 S= -220 255
+t=61199 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61199 S= -220 255
+t=61185 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61185 S= -220 255
+t=61171 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61171 S= -220 255
+t=61156 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61157 S= -220 255
+t=61142 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61142 S= -220 255
+t=61128 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61128 S= -220 255
+t=61114 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61114 S= -220 255
+t=61100 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61100 S= -220 255
+t=61086 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61086 S= -220 255
+t=61071 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61071 S= -220 255
+t=61057 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61057 S= -220 255
+t=61043 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61043 S= -220 255
+t=61029 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61029 S= -220 255
+t=61015 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61015 S= -220 255
+t=61000 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=61001 S= -220 255
+t=60986 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60986 S= -220 255
+t=60972 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60972 S= -220 255
+t=60958 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60958 S= -220 255
+t=60944 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60944 S= -220 255
+t=60929 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60930 S= -220 255
+t=60915 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60915 S= -220 255
+t=60901 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60901 S= -220 255
+t=60887 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60887 S= -220 255
+t=60872 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60873 S= -220 255
+t=60858 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60858 S= -220 255
+t=60844 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60844 S= -220 255
+t=60830 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60830 S= -220 255
+t=60816 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60816 S= -220 255
+t=60801 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60802 S= -220 255
+t=60787 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60787 S= -220 255
+t=60773 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60773 S= -220 255
+t=60759 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60759 S= -220 255
+t=60745 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60745 S= -220 255
+t=60730 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60731 S= -220 255
+t=60716 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60716 S= -220 255
+t=60702 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60702 S= -220 255
+t=60688 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60688 S= -220 255
+t=60674 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60674 S= -220 255
+t=60660 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60660 S= -220 255
+t=60645 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60645 S= -220 255
+t=60631 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60631 S= -220 255
+t=60617 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60617 S= -220 255
+t=60603 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60603 S= -220 255
+t=60589 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60589 S= -220 255
+t=60574 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60574 S= -220 255
+t=60560 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60560 S= -220 255
+t=60546 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60546 S= -220 255
+t=60532 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60532 S= -220 255
+t=60517 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60518 S= -220 255
+t=60503 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60503 S= -220 255
+t=60489 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60489 S= -220 255
+t=60475 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60475 S= -220 255
+t=60461 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60461 S= -220 255
+t=60446 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60447 S= -220 255
+t=60432 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60432 S= -220 255
+t=60418 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60418 S= -220 255
+t=60404 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60404 S= -220 255
+t=60390 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60390 S= -220 255
+t=60375 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60376 S= -220 255
+t=60361 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60361 S= -220 255
+t=60347 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60347 S= -220 255
+t=60333 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60333 S= -220 255
+t=60319 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60319 S= -220 255
+t=60304 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60305 S= -220 255
+t=60290 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60290 S= -220 255
+t=60276 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60276 S= -220 255
+t=60262 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60262 S= -220 255
+t=60248 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60248 S= -220 255
+t=60233 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60234 S= -220 255
+t=60219 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60219 S= -220 255
+t=60205 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60205 S= -220 255
+t=60191 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60191 S= -220 255
+t=60177 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60177 S= -220 255
+t=60163 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60163 S= -220 255
+t=60148 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60148 S= -220 255
+t=60134 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60134 S= -220 255
+t=60120 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60120 S= -220 255
+t=60106 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60106 S= -220 255
+t=60092 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60092 S= -220 255
+t=60077 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60077 S= -220 255
+t=60063 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60063 S= -220 255
+t=60049 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60049 S= -220 255
+t=60035 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60035 S= -220 255
+t=60021 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60021 S= -220 255
+t=60006 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=60007 S= -220 255
+t=59992 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59992 S= -220 255
+t=59978 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59978 S= -220 255
+t=59964 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59964 S= -220 255
+t=59950 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59950 S= -220 255
+t=59935 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59936 S= -220 255
+t=59921 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59921 S= -220 255
+t=59907 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59907 S= -220 255
+t=59893 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59893 S= -220 255
+t=59879 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59879 S= -220 255
+t=59864 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59864 S= -220 255
+t=59850 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59850 S= -220 255
+t=59836 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59836 S= -220 255
+t=59822 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59822 S= -220 255
+t=59808 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59808 S= -220 255
+t=59793 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59793 S= -220 255
+t=59779 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59779 S= -220 255
+t=59765 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59765 S= -220 255
+t=59751 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59751 S= -220 255
+t=59737 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59737 S= -220 255
+t=59722 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59723 S= -220 255
+t=59708 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59708 S= -220 255
+t=59694 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59694 S= -220 255
+t=59680 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59680 S= -220 255
+t=59666 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59666 S= -220 255
+t=59651 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59652 S= -220 255
+t=59637 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59637 S= -220 255
+t=59623 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59623 S= -220 255
+t=59609 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59609 S= -220 255
+t=59595 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59595 S= -220 255
+t=59581 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59581 S= -220 255
+t=59566 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59566 S= -220 255
+t=59552 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59552 S= -220 255
+t=59538 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59538 S= -220 255
+t=59524 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59524 S= -220 255
+t=59510 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59510 S= -220 255
+t=59495 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59496 S= -220 255
+t=59481 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59481 S= -220 255
+t=59467 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59467 S= -220 255
+t=59453 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59453 S= -220 255
+t=59439 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59439 S= -220 255
+t=59424 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59425 S= -220 255
+t=59410 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59410 S= -220 255
+t=59396 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59396 S= -220 255
+t=59382 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59382 S= -220 255
+t=59368 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59368 S= -220 255
+t=59354 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59354 S= -220 255
+t=59339 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59340 S= -220 255
+t=59325 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59325 S= -220 255
+t=59311 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59311 S= -220 255
+t=59297 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59297 S= -220 255
+t=59283 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59283 S= -220 255
+t=59268 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59268 S= -220 255
+t=59254 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59254 S= -220 255
+t=59240 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59240 S= -220 255
+t=59226 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59226 S= -220 255
+t=59211 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59212 S= -220 255
+t=59197 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59197 S= -220 255
+t=59183 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59183 S= -220 255
+t=59169 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59169 S= -220 255
+t=59155 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59155 S= -220 255
+t=59141 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59141 S= -220 255
+t=59126 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59126 S= -220 255
+t=59112 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59112 S= -220 255
+t=59098 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59098 S= -220 255
+t=59084 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59084 S= -220 255
+t=59070 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59070 S= -220 255
+t=59055 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59056 S= -220 255
+t=59041 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59041 S= -220 255
+t=59027 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59027 S= -220 255
+t=59013 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=59013 S= -220 255
+t=58999 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58999 S= -220 255
+t=58984 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58985 S= -220 255
+t=58970 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58970 S= -220 255
+t=58956 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58956 S= -220 255
+t=58942 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58942 S= -220 255
+t=58928 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58928 S= -220 255
+t=58913 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58914 S= -220 255
+t=58899 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58899 S= -220 255
+t=58885 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58885 S= -220 255
+t=58871 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58871 S= -220 255
+t=58857 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58857 S= -220 255
+t=58843 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58843 S= -220 255
+t=58828 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58828 S= -220 255
+t=58814 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58814 S= -220 255
+t=58800 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58800 S= -220 255
+t=58786 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58786 S= -220 255
+t=58772 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58772 S= -220 255
+t=58757 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58758 S= -220 255
+t=58743 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58743 S= -220 255
+t=58729 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58729 S= -220 255
+t=58715 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58715 S= -220 255
+t=58701 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58701 S= -220 255
+t=58686 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58687 S= -220 255
+t=58672 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58672 S= -220 255
+t=58658 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58658 S= -220 255
+t=58644 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58644 S= -220 255
+t=58630 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58630 S= -220 255
+t=58615 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58615 S= -220 255
+t=58605 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58605 S= -220 255
+t=58595 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58595 S= -220 255
+t=58585 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58585 S= -220 255
+t=58575 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58575 S= -220 255
+t=58565 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58565 S= -220 255
+t=58555 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58555 S= -220 255
+t=58545 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58545 S= -220 255
+t=58535 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58536 S= -220 255
+t=58525 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58526 S= -220 255
+t=58515 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58516 S= -220 255
+t=58505 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58506 S= -220 255
+t=58495 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58495 S= -220 255
+t=58485 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58486 S= -220 255
+t=58475 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58475 S= -220 255
+t=58465 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58465 S= -220 255
+t=58455 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58456 S= -220 255
+t=58445 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58446 S= -220 255
+t=58435 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58436 S= -220 255
+t=58425 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58425 S= -220 255
+t=58415 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58415 S= -220 255
+t=58405 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58405 S= -220 255
+t=58395 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58395 S= -220 255
+t=58385 Q= 0 0 0 0 0 0 0 0 RGB= 0 0 0 Dist=0.00 t=58385 S= -255 255
+myloop3
+myloop3
+m

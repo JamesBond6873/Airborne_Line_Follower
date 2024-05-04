@@ -1,6 +1,19 @@
-function putty_clipboard_show
+function putty_clipboard_show( tstId )
+if nargin<1
+    tstId= 4;
+end
+if length(tstId)>1
+    for i= tstId, putty_clipboard_show(i); disp('press ret to continue'); pause; end
+    return
+end
 
-fname= 'putty_clipboard.txt';
+switch tstId
+    case 1, fname= 'putty_clipboard.txt';
+    case 2, fname= 'putty_clipboard2.txt'; % using t0undefined
+    case 3, fname= 'putty_clipboard3.txt'; % cut most of prints in check color
+    case 4, fname= 'putty_clipboard4.txt'; % myserialprint() empty, sike due to putty
+end
+
 putty_clipboard_show_main( fname )
 
 
