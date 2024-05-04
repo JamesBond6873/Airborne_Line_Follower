@@ -26,12 +26,15 @@ int frequencyG;
 int frequencyB;
 
 
-int M1 = 80; //Kp = 80
-int M2 = 80; //Kp = 80
+int M1 = 180; //Kp = 80
+int M2 = 180; //Kp = 80
 
-float KP = 65.0; //Kp = 20.0
+int goBackTime = 100; // time to go back after color detection (ms)
+int goBackSpeed = -125; // speed to go back after color detection (negative values only)
+
+float KP = 80.0; //Kp = 20.0
 float KI = 0;
-float KD = 170.0;
+float KD = 210.0;
 
 bool debug = false;
 
@@ -77,26 +80,38 @@ void checkColor(int &lastUsed)
   Serial.print(frequencyB);//printing Blue color frequency
   Serial.print("\t");
 
-  if(frequencyR < frequencyG - 40 && frequencyR < frequencyB - 40  && frequencyR <= 0) { //Important Change: Red detection OFF
+  if(frequencyR < frequencyG - 35 && frequencyR < frequencyB - 35) { //Important Change: Red detection OFF
     Serial.print("RED");
     Serial.print("\t");
     lastUsed = 0;
     setSpeed(0, 0, 1, debug);
+    delay(0.05);
+    setSpeed(goBackSpeed, goBackSpeed, 1, debug);
+    delay(goBackTime);
+    setSpeed(0, 0, 1, debug);
     setColor(255, 0, 0);
     makeSound();
     }
-  else if(frequencyG < frequencyR - 10 && frequencyG < frequencyB - 10) {
+  else if(frequencyG < frequencyR - 20 && frequencyG < frequencyB - 20) {
     Serial.print("GREEN");
     Serial.print("\t");
     lastUsed = 0;
     setSpeed(0, 0, 1, debug);
+    delay(0.05);
+    setSpeed(goBackSpeed, goBackSpeed, 1, debug);
+    delay(goBackTime);
+    setSpeed(0, 0, 1, debug);
     setColor(0, 255, 0);
     makeSound();
     }
-  else if(frequencyB < frequencyG - 35 && frequencyB < frequencyR - 35) {
+  else if(frequencyB < frequencyG - 40 && frequencyB < frequencyR - 40) {
     Serial.print("BLUE");
     Serial.print("\t");
     lastUsed = 0;
+    setSpeed(0, 0, 1, debug);
+    delay(0.05);
+    setSpeed(goBackSpeed, goBackSpeed, 1, debug);
+    delay(goBackTime);
     setSpeed(0, 0, 1, debug);
     setColor(0, 0, 255);
     makeSound();
@@ -116,9 +131,18 @@ void setColor(int redValue, int greenValue, int blueValue) {
 
 void makeSound() {
   int time0 = millis();
-  while (millis() < (time0 + 5000)){
+  /*while (millis() < (time0 + 5000)){
     tone(buzzerPin, 1000); // Send 1KHz sound signal...
     delay(50);        // ...for 1 sec
+    noTone(buzzerPin);     // Stop sound...
+    digitalWrite(buzzerPin, LOW);
+    delay(100);        // ...for 1sec
+  }*/
+
+  while (millis() < (time0 + 5000 - goBackTime)){
+    //tone(buzzerPin, 2000); // Send 1KHz sound signal...
+    digitalWrite(buzzerPin, HIGH);
+    delay(500);        // ...for 1 sec
     noTone(buzzerPin);     // Stop sound...
     digitalWrite(buzzerPin, LOW);
     delay(100);        // ...for 1sec
