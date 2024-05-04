@@ -15,7 +15,7 @@ In the following [WIP] means Work In Progress
 #include "my_sys_state.h"
 //#include "my_print.h" // [WIP]
 
-MySysState ss;
+//MySysState ss;
 //MyPrint pr; // [WIP]
 
 
@@ -28,9 +28,14 @@ void setup() {
 }
 
 
-void loop0() {
+//void loop() { ss_loop_demo_0(); }
+//void loop() { ss_loop_demo_1(); }
+void loop() { ss_loop_demo_2(); }
+
+
+void loopX() {
   // [WIP] read all sensors, and send the data to "ss"
-  // ss.sensorsDataStore( qtrTimeValues, colorPinValues, sonarDistance );
+  // ss.sensorsDataStore( qtrTimeValues, redValue, greenValue, blueValue, sonarDistance );
 
   // [WIP] compute new state given the stored sensor data and config info
   // ss.computeMode();
@@ -67,6 +72,3 @@ void loop0() {
       break;
   }
 }
-
-
-void loop() { ss_loop_demo_1(); }
