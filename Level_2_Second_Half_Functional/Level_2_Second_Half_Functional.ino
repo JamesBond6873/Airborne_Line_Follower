@@ -30,7 +30,7 @@ int M1 = 230; //Kp = 80
 int M2 = 230; //Kp = 80
 
 int goBackTime = 100; // time to go back after color detection (ms)
-int goBackSpeed = -125; // speed to go back after color detection (negative values only)
+int goBackSpeed = -180; // speed to go back after color detection (negative values only)
 
 float KP = 100.0; //Kp = 20.0
 float KI = 0;
@@ -139,7 +139,7 @@ void makeSound() {
     delay(100);        // ...for 1sec
   }*/
 
-  while (millis() < (time0 + 5000 - goBackTime)){
+  while (millis() < (time0 + 5000 - goBackTime - 750)){
     //tone(buzzerPin, 2000); // Send 1KHz sound signal...
     digitalWrite(buzzerPin, HIGH);
     delay(500);        // ...for 1 sec

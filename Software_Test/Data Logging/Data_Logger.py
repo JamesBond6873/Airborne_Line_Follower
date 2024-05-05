@@ -3,7 +3,7 @@ import keyboard
 import numpy as np
 import datetime
 
-ser = serial.Serial('COM10', 9600) # Change the port name to the correct one
+ser = serial.Serial('COM13', 9600) # Change the port name to the correct one
 
 
 def create_file(file_path):
@@ -18,7 +18,7 @@ def append_to_file(filename, message):
 
 print("Starting")
 
-path = "C:\\Users\\Francisco\\Desktop\\Projects\\Festival Nacional de Robótica\\Airborne_Line_Follower\\Software_Test\\Data Logging\\"
+path = "C:\\Users\\ffpa0\\Desktop\\Code\\Line Follower\\Software_Test\\Data Logging"
 current_time = str(datetime.datetime.now()).replace(" ", "_").replace("-", "_").replace(":", "")
 filePath = path + current_time + ".txt"
 print(filePath)
